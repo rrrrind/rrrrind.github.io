@@ -36,17 +36,17 @@
 - 情報処理学会第80回全国大会学生奨励賞 (2018)
 
 ## Activity
-- 2019.09.22-2020.01.31
+- 2019.09.22-2020.01.31  
 モスクワ大学 情報数学・人工知能学部に留学
   - 主に深層学習に関する手法の理論や強化学習の基礎について勉強
 
-- 2017.08.01-2017.08.21
+- 2017.08.01-2017.08.21  
 YAHOO! JAPAN "Hack U 2017 NAGOYA" 出場
-  - **[作品発表会](https://youtu.be/1cfKaH7gLkY?t=3912)**
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1cfKaH7gLkY?start=3913" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-- 2016.08.15-2016.08.26
+- 2016.08.15-2016.08.26  
 株式会社日本テクシード
   - インターンシップ
 
-- 2014.11.01-2014.11.29
+- 2014.11.01-2014.11.29  
 YAHOO! JAPAN "Open Hack U 2014" 出場
