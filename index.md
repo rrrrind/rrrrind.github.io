@@ -15,8 +15,8 @@
 ## Publications
 ### Conference
 査読あり
-- **Masaya Mori**, Yuto Omae, Takuma Akiduki, Hirotaka Takahashi, "Consideration of Human Motion’s Individual Differences-Based Feature Space Evaluation Function for Anomaly Detection", The 13th International Conference on Innovative Computing, Information and Control (ICICIC2018). **[LINK](http://www.icicconference.org/icicic2018/)** **[PDF](https://doi.org/10.24507/ijicic.15.02.783)**
-- Yuto Omae, **Masaya Mori**, Takuma Akiduki, Hirotaka Takahashi, "A Novel Deep Learning Optimization Algorithm for Human Motions Anomaly Detection", The 13th International Conference on Innovative Computing, Information and Control (ICICIC2018). **[LINK](http://www.icicconference.org/icicic2018/)** **[PDF](https://doi.org/10.24507/ijicic.15.01.199)**
+- **Masaya Mori**, Yuto Omae, Takuma Akiduki, Hirotaka Takahashi, "Consideration of Human Motion’s Individual Differences-Based Feature Space Evaluation Function for Anomaly Detection", The 13th International Conference on Innovative Computing, Information and Control (ICICIC2018). **[LINK](http://www.icicconference.org/icicic2018/)**, **[PDF](https://doi.org/10.24507/ijicic.15.02.783)**
+- Yuto Omae, **Masaya Mori**, Takuma Akiduki, Hirotaka Takahashi, "A Novel Deep Learning Optimization Algorithm for Human Motions Anomaly Detection", The 13th International Conference on Innovative Computing, Information and Control (ICICIC2018). **[LINK](http://www.icicconference.org/icicic2018/)**, **[PDF](https://doi.org/10.24507/ijicic.15.01.199)**
 
 査読なし
 - **森雅也**, 中平勝子, 高橋弘毅, 田中貴浩, "ノイズに埋もれた微小信号波形の検出への変分オートエンコーダを用いた異常検知の応用", 第18回情報科学技術フォーラム, 岡山大学津島キャンパス, 2019.9.3-5.
