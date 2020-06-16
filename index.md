@@ -42,7 +42,7 @@
 
 - 2017.08.01-2017.08.21  
 YAHOO! JAPAN "Hack U 2017 NAGOYA" 出場
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1cfKaH7gLkY?start=3913" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="280" height="157" src="https://www.youtube.com/embed/1cfKaH7gLkY?start=3913" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 - 2016.08.15-2016.08.26  
 株式会社日本テクシード
