@@ -26,8 +26,8 @@
 - **森雅也**, 秋月拓磨, 高橋弘毅, 大前佑斗, "身体動作の個人差に対してロバストな特徴量空間評価関数の提案", 電子情報通信学会パターン認識・メディア理解研究会, 東京大学, 2017.9.15-16. **[PDF](https://ipsj.ixsq.nii.ac.jp/ej/index.php?active_action=repository_view_main_item_detail&page_id=13&block_id=8&item_id=183420&item_no=1)**
 
 ### Journal
-- **Masaya Mori**, Yuto Omae, Takuma Akiduki, Hirotaka Takahashi, "Consideration of Human Motion’s Individual Differences-Based Feature Space Evaluation Function for Anomaly Detection", International Journal of Innovative Computing, Information and Control (IJICIC), Vol.15 No 2, pp.783-791 (2019).
-- Yuto Omae, **Masaya Mori**, Takuma Akiduki, Hirotaka Takahashi, "A Novel Deep Learning Optimization Algorithm for Human Motions Anomaly Detection", International Journal of Innovative Computing, Information and Control (IJICIC), Vol.15 No.1, pp.199-208 (2019).
+- **Masaya Mori**, Yuto Omae, Takuma Akiduki, Hirotaka Takahashi, "Consideration of Human Motion’s Individual Differences-Based Feature Space Evaluation Function for Anomaly Detection", International Journal of Innovative Computing, Information and Control (IJICIC), Vol.15 No 2, pp.783-791 (2019). **[PDF](https://doi.org/10.24507/ijicic.15.02.783)**
+- Yuto Omae, **Masaya Mori**, Takuma Akiduki, Hirotaka Takahashi, "A Novel Deep Learning Optimization Algorithm for Human Motions Anomaly Detection", International Journal of Innovative Computing, Information and Control (IJICIC), Vol.15 No.1, pp.199-208 (2019). **[PDF](https://doi.org/10.24507/ijicic.15.01.199)**
 
 ## Award
 - 第18回情報科学技術フォーラムFIT奨励賞 (2019)
@@ -40,7 +40,7 @@
 モスクワ大学 情報数学・人工知能学部に留学
   - 主に深層学習に関する手法の理論や強化学習の基礎について勉強
 
-- 2017.09.15-2017.09.16
+- 2017.09.15-2017.09.16  
 ポスターセッションに参加
   - 身体動作の個人差に対してロバストな特徴量空間評価関数の提案に関するポスター発表を行った
 
