@@ -33,12 +33,16 @@
 - Yuto Omae, **Masaya Mori**, Takuma Akiduki, Hirotaka Takahashi, "A Novel Deep Learning Optimization Algorithm for Human Motions Anomaly Detection", International Journal of Innovative Computing, Information and Control (IJICIC), Vol.15 No.1, pp.199-208 (2019). **[PDF](https://doi.org/10.24507/ijicic.15.01.199)**
 
 ## Award
+- 『株式会社VOYAGE GROUP』『株式会社サポーターズ』共催サマーハッカソンにて入選(63組中3位)(2020)  
 - 第18回情報科学技術フォーラムFIT奨励賞 (2019)
 - 情報処理学会第81回全国大会学生奨励賞 (2019)
 - Best Paper Award for ICICIC2018(共著) (2018)
 - 情報処理学会第80回全国大会学生奨励賞 (2018)
 
 ## Activity
+- 2020.08.08-2020.08.16  
+『株式会社VOYAGE GROUP』『株式会社サポーターズ』共催 "サマーハッカソン〜オンラインでLVupする夏合宿〜" 出場
+
 - 2019.09.22-2020.01.31  
 モスクワ大学 情報数学・人工知能学部に留学
   - 主に深層学習に関する手法の理論や強化学習の基礎について勉強
@@ -48,7 +52,7 @@
   - 身体動作の個人差に対してロバストな特徴量空間評価関数の提案に関するポスター発表を行った
 
 - 2017.08.01-2017.08.21  
-YAHOO! JAPAN "Hack U 2017 NAGOYA" 出場
+『ヤフー株式会社』主催 "Hack U 2017 NAGOYA" 出場
 <iframe width="280" height="157" src="https://www.youtube.com/embed/1cfKaH7gLkY?start=3913" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 - 2016.08.15-2016.08.26  
@@ -57,4 +61,4 @@ YAHOO! JAPAN "Hack U 2017 NAGOYA" 出場
   - 主に電子回路設計などを行った
 
 - 2014.11.01-2014.11.29  
-YAHOO! JAPAN "Open Hack U 2014" 出場
+『ヤフー株式会社』主催 "Open Hack U 2014" 出場
