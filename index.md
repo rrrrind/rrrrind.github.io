@@ -32,14 +32,14 @@
 - **Masaya Mori**, Yuto Omae, Takuma Akiduki, Hirotaka Takahashi, "Consideration of Human Motion’s Individual Differences-Based Feature Space Evaluation Function for Anomaly Detection", International Journal of Innovative Computing, Information and Control (IJICIC), Vol.15 No 2, pp.783-791 (2019). **[PDF](https://doi.org/10.24507/ijicic.15.02.783)**
 - Yuto Omae, **Masaya Mori**, Takuma Akiduki, Hirotaka Takahashi, "A Novel Deep Learning Optimization Algorithm for Human Motions Anomaly Detection", International Journal of Innovative Computing, Information and Control (IJICIC), Vol.15 No.1, pp.199-208 (2019). **[PDF](https://doi.org/10.24507/ijicic.15.01.199)**
 
-## Award
-- 『株式会社VOYAGE GROUP』『株式会社サポーターズ』共催サマーハッカソンにて入選(63組中3位)(2020)  
+## Awards
+- 『株式会社VOYAGE GROUP』『株式会社サポーターズ』共催 "サマーハッカソン〜オンラインでLVupする夏合宿〜"にて入選(63組中3位) (2020)  
 - 第18回情報科学技術フォーラムFIT奨励賞 (2019)
 - 情報処理学会第81回全国大会学生奨励賞 (2019)
 - Best Paper Award for ICICIC2018(共著) (2018)
 - 情報処理学会第80回全国大会学生奨励賞 (2018)
 
-## Activity
+## Activities
 - 2020.08.08-2020.08.16  
 『株式会社VOYAGE GROUP』『株式会社サポーターズ』共催 "サマーハッカソン〜オンラインでLVupする夏合宿〜" 出場
 
