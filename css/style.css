@@ -263,6 +263,33 @@ li {
 }
 
 /*--------------------------------
+ awards
+---------------------------------*/
+.awards-section .inner {
+  max-width: 1000px;
+}
+
+.awards-item {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.awards-body {
+  flex: 1;
+  margin-left: 6vw;
+  margin-right: 6vw;
+}
+
+.awards-body ul, .awards-body li{
+  list-style: disc;
+}
+
+.awards-body p:not(:last-child) {
+  margin-bottom: 20px;
+}
+
+/*--------------------------------
  papers
 ---------------------------------*/
 .papers-list {
@@ -495,6 +522,26 @@ li {
   }
 
   .activities-image-wrapper {
+    flex: 0 0 75px;
+    margin-right: 15px;
+  }
+
+  /* awards */
+  .awards-list {
+    display: block;
+    margin-bottom: 0;
+  }
+
+  .awards-item {
+    max-width: 100%;
+    margin-bottom: 35px;
+  }
+
+  .awards-item:last-child {
+    margin-bottom: 0;
+  }
+
+  .awards-image-wrapper {
     flex: 0 0 75px;
     margin-right: 15px;
   }
