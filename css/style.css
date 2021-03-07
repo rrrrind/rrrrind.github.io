@@ -447,6 +447,10 @@ li {
     font-size: 22px;
   }
 
+  .section-lead {
+    font-size: 14px;
+  }
+
   /* レイアウト */
   .wrapper {
     padding-top: 82px;
