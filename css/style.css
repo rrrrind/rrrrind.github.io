@@ -225,7 +225,9 @@ li {
 
 .about-body {
   flex: 1;
-  margin-left: 20px;
+  margin-left: 9vw;
+  margin-right: 5vw;
+  /* margin-left: 20px; */
 }
 
 .about-body ul, .about-body li{
