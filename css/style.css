@@ -225,8 +225,8 @@ li {
 
 .about-body {
   flex: 1;
-  margin-left: 9vw;
-  margin-right: 5vw;
+  margin-left: 8vw;
+  margin-right: 6vw;
   /* margin-left: 20px; */
 }
 
@@ -253,7 +253,7 @@ li {
 
 .activities-body {
   flex: 1;
-  margin-left: 6vw;
+  margin-left: 8vw;
   margin-right: 6vw;
 }
 
@@ -280,7 +280,7 @@ li {
 
 .awards-body {
   flex: 1;
-  margin-left: 6vw;
+  margin-left: 8vw;
   margin-right: 6vw;
 }
 
