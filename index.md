@@ -4,8 +4,8 @@
 #### Twitter : [@rrrrind](https://twitter.com/rrrrind)
 #### Google Scholar : [LINK](https://scholar.google.com/citations?user=iQVI1eAAAAAJ&hl=en)
 
-学生時代のポートフォリオは[こちら](./student_days/index.html)
-English version is [here](.english_ver/index.html)!
+学生時代のポートフォリオは[こちら](./student_days/student.html)
+English version is [here](.english_ver/english.html)!
 
 
 ## Career
