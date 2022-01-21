@@ -1,11 +1,11 @@
 # 森 雅也 (Masaya Mori)
-#### Mail : masaya.mori0905[at]gmail.com
-#### GitHub : [@rrrrind](https://github.com/rrrrind) 
-#### Twitter : [@rrrrind](https://twitter.com/rrrrind)
-#### Google Scholar : [LINK](https://scholar.google.com/citations?user=iQVI1eAAAAAJ&hl=en)
+- **Mail** : masaya.mori0905[at]gmail.com
+- **GitHub** : [@rrrrind](https://github.com/rrrrind) 
+- **Twitter** : [@rrrrind](https://twitter.com/rrrrind)
+- **Google Scholar** : [LINK](https://scholar.google.com/citations?user=iQVI1eAAAAAJ&hl=en)
 
-学生時代のポートフォリオは[こちら](./student_days/student.html)
-English version is [here](.english_ver/english.html)!
+学生時代のポートフォリオは[こちら](./student_days/student.html)  
+English version is [here](.english_ver/english.md)!
 
 
 ## Career
@@ -14,20 +14,20 @@ English version is [here](.english_ver/english.html)!
 
 
 ## Education
-- 長岡技術科学大学大学院　情報・経営システム工学専攻 (2020.04-2022.03)
+- 長岡技術科学大学大学院 情報・経営システム工学専攻 (2020.04-2022.03)
 - M.V.ロモノーソフ・モスクワ国立総合大学 情報数学・人工知能学部 (2019.09.22-2020.01.31)
-- 長岡技術科学大学　情報・経営システム工学課程 (2018.04-2020.03)
-- 東京工業高等専門学校　電気工学科 (2013.04-2018.03)
+- 長岡技術科学大学 情報・経営システム工学課程 (2018.04-2020.03)
+- 東京工業高等専門学校 電気工学科 (2013.04-2018.03)
 
 
 
 ## Research
 - 特徴量選択
-  - Filter Method
-  - Embedded Method
+    - Filter Method
+    - Embedded Method
 - 高次元小標本
-- 医療分野(体組成)
-- 環境分野(シアノバクテリア)
+- 医療分野 (体組成)
+- 環境分野 (シアノバクテリア)
 
 
 
@@ -38,11 +38,11 @@ English version is [here](.english_ver/english.html)!
 - Hiroteru Kamimura, Hirofumi Nonaka, **Masaya Mori**, Taichi Kobayashi, Toru Setsu, Kenya Kamimura, Atsunori Tsuchiya, and Shuji Terai. "Use of a Deep Learning Approach for the Sensitive Prediction of Hepatitis B Surface Antigen Levels in Inactive Carrier Patients." Journal of Clinical Medicine 11, no.2 (2022): 387. **[LINK](https://www.mdpi.com/2077-0383/11/2/387)**  
 
 ### Conference  
-査読あり  
+査読あり
 - **Masaya Mori**, Yuto Omae, Takuma Akiduki, Hirotaka Takahashi, "Consideration of Human Motion’s Individual Differences-Based Feature Space Evaluation Function for Anomaly Detection", The 13th International Conference on Innovative Computing, Information and Control. **[LINK](http://www.icicconference.org/icicic2018/)**, **[PDF](http://www.ijicic.org/ijicic-150225.pdf)**  
 - Yuto Omae, **Masaya Mori**, Takuma Akiduki, Hirotaka Takahashi, "A Novel Deep Learning Optimization Algorithm for Human Motions Anomaly Detection", The 13th International Conference on Innovative Computing, Information and Control (ICICIC2018). **[LINK](http://www.icicconference.org/icicic2018/)**, **[PDF](http://www.ijicic.org/ijicic-150113.pdf)**  
 
-査読なし  
+査読なし
 - **森雅也**, 秋月拓磨, 高橋弘毅, 大前佑斗. 身体動作の個人差に対してロバストな特徴量空間評価関数の提案. 研究報告コンピュータビジョンとイメージメディア (CVIM). 2017 Sep 8;2017(1):1-6. **[LINK](https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=183420&item_no=1&page_id=13&block_id=8)**  
 - **森雅也**, 秋月拓磨, 高橋弘毅, 大前佑斗. 身体動作の異常値検知問題におけるCHI-FS評価関数の信頼性の検証. 第80回全国大会講演論文集. 2018 Mar 13;2018(1):253-4. **[LINK](https://ipsj.ixsq.nii.ac.jp/ej/index.php?active_action=repository_view_main_item_detail&page_id=13&block_id=8&item_id=187974&item_no=1)**  
 - **森雅也**, 大前佑斗. 畳込みニューラルネットワークと慣性センサによる運動支援システムの構築. 第80回全国大会講演論文集. 2018 Mar 13;2018(1):261-2. **[LINK](https://ipsj.ixsq.nii.ac.jp/ej/index.php?active_action=repository_view_main_item_detail&page_id=13&block_id=8&item_id=187978&item_no=1)**  
