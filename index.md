@@ -5,7 +5,7 @@
 - **Google Scholar** : [LINK](https://scholar.google.com/citations?user=iQVI1eAAAAAJ&hl=en){:target="_blank"}
 
 学生時代のポートフォリオは[こちら](./student_days/student.html)  
-English version is [here](.english_ver/english.md)!
+English version is [here](./english_ver/english.md)!
 
 
 ## Career
