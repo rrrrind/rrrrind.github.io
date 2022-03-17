@@ -55,8 +55,11 @@ English version is [here](./en.md)!
 
 - **森雅也**, 中平勝子, 高橋弘毅, 田中貴浩. ノイズに埋もれた微小信号波形の検出への変分オートエンコーダを用いた異常検知の応用. In IEICE Conferences Archives 2019 Aug 20. The Institute of Electronics, Information and Communication Engineers. **[LINK](https://www.ipsj.or.jp/event/fit/fit2019/){:target="_blank"}**, **[PDF](https://www.ieice.org/publications/conferences/summary.php?id=FIT0000013611&expandable=2&ConfCd=F&session_num=4d&lecture_number=A-009&year=2019&conf_type=F){:target="_blank"}**  
 
-- **森雅也**, 山城広周, 山本雄太, 森楓, 鈴木祥広, 平岡透, 野中尋史, “機械学習を用いたダム湖上流における有害藻類ブルームの発生予測モデルの開発と発生要因分析への応用”, 情報処理学会第83回全国大会, オンライン開催, 2021.3.18-20. **[LINK](https://www.ipsj.or.jp/event/taikai/83/){:target="_blank"}**
+- **森雅也**, 山城広周, 山本雄太, 森楓, 鈴木祥広, 平岡透, 野中尋史. 機械学習を用いたダム湖上流における有害藻類ブルームの発生予測モデルの開発と発生要因分析への応用. 第83回全国大会講演論文集. 2021 Mar 4;2021(1):505-6. **[LINK](https://www.ipsj.or.jp/event/taikai/83/){:target="_blank"}**, **[PDF](https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=215051&item_no=1&page_id=13&block_id=8){:target="_blank"}**  
 
+- 藤崎竜成, **森雅也**, 野中尋史. Hololens2のマルチセンシング機能を利用した機械学習に基づく身体動作解析. 第84回全国大会講演論文集(in press). 2022 Mar 3. **[LINK](https://www.ipsj.or.jp/event/taikai/84/){:target="_blank"}**
+
+- 田村夏生, **森雅也**, 上村博輝, 野中尋史. 電子医療記録を用いたLatent Dirichlet Allocationによる疾患共起トピックと個別疾患ごとのコスト期待値算出. 第84回全国大会講演論文集(in press). 2022 Mar 5. **[LINK](https://www.ipsj.or.jp/event/taikai/84/){:target="_blank"}**
 
 
 ## Awards  
