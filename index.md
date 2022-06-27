@@ -67,7 +67,7 @@ English version is [here](./en.md)!
 
 
 ## Activities
-- 2022.06.06
+- 2022.06.06  
 "Prediction of Microcystis Occurrences and Analysis Using Machine Learning in High-Dimension, Low-Sample-Size and Imbalanced Water Quality Data”がHarmful Algae(Elsevier, Impact Factor 4.273, Scimago Q1)にて採択 / [LINK](https://doi.org/10.1016/j.hal.2022.102273){:target="_blank"}
 
 - 2022.03.25  
