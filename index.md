@@ -25,15 +25,17 @@ English version is [here](./en.md)!
 - 機械学習
 - 特徴量選択
 - 高次元小標本
-- 医療分野(体組成)，環境分野(シアノバクテリア)
+- 医療分野(臨床)
+- 水環境分野(シアノバクテリア)
 
 
 
 ## Publications
 ### Journal
+1. **Masaya Mori**, Roberto Gonzalez Flores, Yoshihiro Suzuki, Kei Nukazawa, Toru Hiraoka, Hirofumi Nonaka, Prediction of Microcystis Occurrences and Analysis Using Machine Learning in High-Dimension, Low-Sample-Size and Imbalanced Water Quality Data, Harmful Algae, Volume 117, 2022, 102273, ISSN 1568-9883. **[LINK](https://doi.org/10.1016/j.hal.2022.102273)**  
+1. Hiroteru Kamimura, Hirofumi Nonaka, **Masaya Mori**, Taichi Kobayashi, Toru Setsu, Kenya Kamimura, Atsunori Tsuchiya, and Shuji Terai. "Use of a Deep Learning Approach for the Sensitive Prediction of Hepatitis B Surface Antigen Levels in Inactive Carrier Patients." Journal of Clinical Medicine 11, no.2 (2022): 387. **[LINK](https://www.mdpi.com/2077-0383/11/2/387){:target="_blank"}**  
 1. **Masaya Mori**, Yuto Omae, Takuma Akiduki, and Hirotaka Takahashi. "Consideration of human motion’s individual differences-based feature space evaluation function for anomaly detection." International Journal of Innovative Computing, Information and Control (2019). **[PDF](http://www.ijicic.org/ijicic-150225.pdf){:target="_blank"}**  
 1. Yuto Omae, **Masaya Mori**, Takuma Akiduki, and Hirotaka Takahashi. "A novel deep learning optimization algorithm for human motions anomaly detection." Int. J. Innov. Comput. Inf. Control 15 (2019): 199-208. **[PDF](http://www.ijicic.org/ijicic-150113.pdf){:target="_blank"}**  
-1. Hiroteru Kamimura, Hirofumi Nonaka, **Masaya Mori**, Taichi Kobayashi, Toru Setsu, Kenya Kamimura, Atsunori Tsuchiya, and Shuji Terai. "Use of a Deep Learning Approach for the Sensitive Prediction of Hepatitis B Surface Antigen Levels in Inactive Carrier Patients." Journal of Clinical Medicine 11, no.2 (2022): 387. **[LINK](https://www.mdpi.com/2077-0383/11/2/387){:target="_blank"}**  
 
 ### Conference  
 査読あり
@@ -41,15 +43,16 @@ English version is [here](./en.md)!
 1. Yuto Omae, **Masaya Mori**, Takuma Akiduki, Hirotaka Takahashi, "A Novel Deep Learning Optimization Algorithm for Human Motions Anomaly Detection", The 13th International Conference on Innovative Computing, Information and Control (ICICIC2018). **[LINK](http://www.icicconference.org/icicic2018/){:target="_blank"}**, **[PDF](http://www.ijicic.org/ijicic-150113.pdf){:target="_blank"}**  
 
 査読なし
-1. **森雅也**, 秋月拓磨, 高橋弘毅, 大前佑斗. 身体動作の個人差に対してロバストな特徴量空間評価関数の提案. 研究報告コンピュータビジョンとイメージメディア (CVIM). 2017 Sep 8;2017(1):1-6. **[LINK](https://www.ieice.org/ken/program/index.php?tgs_regid=4a81ccaf44b3990059e6a3d3a0fd1edaadec90a57d3d647f33cc561eae81654a&tgid=IEICE-PRMU){:target="_blank"}**, **[PDF](https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=183420&item_no=1&page_id=13&block_id=8){:target="_blank"}**  
+1. 田村夏生, **森雅也**, 上村博輝, 野中尋史. 電子医療記録を用いたLatent Dirichlet Allocationによる疾患共起トピックと個別疾患ごとのコスト期待値算出. 第84回全国大会講演論文集(in press). 2022 Mar 5. **[LINK](https://www.ipsj.or.jp/event/taikai/84/){:target="_blank"}**
+1. 藤崎竜成, **森雅也**, 野中尋史. Hololens2のマルチセンシング機能を利用した機械学習に基づく身体動作解析. 第84回全国大会講演論文集(in press). 2022 Mar 3. **[LINK](https://www.ipsj.or.jp/event/taikai/84/){:target="_blank"}**
+1. **森雅也**, 山城広周, 山本雄太, 森楓, 鈴木祥広, 平岡透, 野中尋史. 機械学習を用いたダム湖上流における有害藻類ブルームの発生予測モデルの開発と発生要因分析への応用. 第83回全国大会講演論文集. 2021 Mar 4;2021(1):505-6. **[LINK](https://www.ipsj.or.jp/event/taikai/83/){:target="_blank"}**, **[PDF](https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=215051&item_no=1&page_id=13&block_id=8){:target="_blank"}**  
+1. **森雅也**, 中平勝子, 高橋弘毅, 田中貴浩. ノイズに埋もれた微小信号波形の検出への変分オートエンコーダを用いた異常検知の応用. In IEICE Conferences Archives 2019 Aug 20. The Institute of Electronics, Information and Communication Engineers. **[LINK](https://www.ipsj.or.jp/event/fit/fit2019/){:target="_blank"}**, **[PDF](https://www.ieice.org/publications/conferences/summary.php?id=FIT0000013611&expandable=2&ConfCd=F&session_num=4d&lecture_number=A-009&year=2019&conf_type=F){:target="_blank"}**  
+1. **森雅也**, 中平勝子, 田中貴浩. 畳み込みニューラルネットワークを用いた多数のパラメータによって特徴づけられる波形の抽出とパラメータ推定. 第81回全国大会講演論文集. 2019 Feb 28;2019(1):317-8. **[LINK](https://www.ipsj.or.jp/event/taikai/81/){:target="_blank"}**, **[PDF](https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=196366&item_no=1&page_id=13&block_id=8){:target="_blank"}**  
 1. **森雅也**, 秋月拓磨, 高橋弘毅, 大前佑斗. 身体動作の異常値検知問題におけるCHI-FS評価関数の信頼性の検証. 第80回全国大会講演論文集. 2018 Mar 13;2018(1):253-4. **[LINK](https://www.ipsj.or.jp/event/taikai/80/){:target="_blank"}**, **[PDF](https://ipsj.ixsq.nii.ac.jp/ej/index.php?active_action=repository_view_main_item_detail&page_id=13&block_id=8&item_id=187974&item_no=1){:target="_blank"}**  
 1. **森雅也**, 大前佑斗. 畳込みニューラルネットワークと慣性センサによる運動支援システムの構築. 第80回全国大会講演論文集. 2018 Mar 13;2018(1):261-2. **[LINK](https://www.ipsj.or.jp/event/taikai/80/){:target="_blank"}**, **[PDF](https://ipsj.ixsq.nii.ac.jp/ej/index.php?active_action=repository_view_main_item_detail&page_id=13&block_id=8&item_id=187978&item_no=1){:target="_blank"}**  
-1. **森雅也**, 中平勝子, 田中貴浩. 畳み込みニューラルネットワークを用いた多数のパラメータによって特徴づけられる波形の抽出とパラメータ推定. 第81回全国大会講演論文集. 2019 Feb 28;2019(1):317-8. **[LINK](https://www.ipsj.or.jp/event/taikai/81/){:target="_blank"}**, **[PDF](https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=196366&item_no=1&page_id=13&block_id=8){:target="_blank"}**  
-1. **森雅也**, 中平勝子, 高橋弘毅, 田中貴浩. ノイズに埋もれた微小信号波形の検出への変分オートエンコーダを用いた異常検知の応用. In IEICE Conferences Archives 2019 Aug 20. The Institute of Electronics, Information and Communication Engineers. **[LINK](https://www.ipsj.or.jp/event/fit/fit2019/){:target="_blank"}**, **[PDF](https://www.ieice.org/publications/conferences/summary.php?id=FIT0000013611&expandable=2&ConfCd=F&session_num=4d&lecture_number=A-009&year=2019&conf_type=F){:target="_blank"}**  
-1. **森雅也**, 山城広周, 山本雄太, 森楓, 鈴木祥広, 平岡透, 野中尋史. 機械学習を用いたダム湖上流における有害藻類ブルームの発生予測モデルの開発と発生要因分析への応用. 第83回全国大会講演論文集. 2021 Mar 4;2021(1):505-6. **[LINK](https://www.ipsj.or.jp/event/taikai/83/){:target="_blank"}**, **[PDF](https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=215051&item_no=1&page_id=13&block_id=8){:target="_blank"}**  
-1. 藤崎竜成, **森雅也**, 野中尋史. Hololens2のマルチセンシング機能を利用した機械学習に基づく身体動作解析. 第84回全国大会講演論文集(in press). 2022 Mar 3. **[LINK](https://www.ipsj.or.jp/event/taikai/84/){:target="_blank"}**
-1. 田村夏生, **森雅也**, 上村博輝, 野中尋史. 電子医療記録を用いたLatent Dirichlet Allocationによる疾患共起トピックと個別疾患ごとのコスト期待値算出. 第84回全国大会講演論文集(in press). 2022 Mar 5. **[LINK](https://www.ipsj.or.jp/event/taikai/84/){:target="_blank"}**
+1. **森雅也**, 秋月拓磨, 高橋弘毅, 大前佑斗. 身体動作の個人差に対してロバストな特徴量空間評価関数の提案. 研究報告コンピュータビジョンとイメージメディア (CVIM). 2017 Sep 8;2017(1):1-6. **[LINK](https://www.ieice.org/ken/program/index.php?tgs_regid=4a81ccaf44b3990059e6a3d3a0fd1edaadec90a57d3d647f33cc561eae81654a&tgid=IEICE-PRMU){:target="_blank"}**, **[PDF](https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=183420&item_no=1&page_id=13&block_id=8){:target="_blank"}**  
 
+ 
 
 ## Awards  
 1. 長岡技術科学大学 大学院工学研究科 情報・経営システム工学専攻 <br>学長表彰状，最優秀研究賞，最優秀発表賞 (2022)
@@ -63,8 +66,10 @@ English version is [here](./en.md)!
 
 
 
-
 ## Activities
+- 2022.06.06
+"Prediction of Microcystis Occurrences and Analysis Using Machine Learning in High-Dimension, Low-Sample-Size and Imbalanced Water Quality Data”がHarmful Algae(Elsevier, Impact Factor 4.273, Scimago Q1)にて採択 / [LINK](https://doi.org/10.1016/j.hal.2022.102273)
+
 - 2022.03.25  
 長岡技術科学大学 大学院工学研究科 情報・経営システム工学専攻  
 <span style="color: red; ">学長表彰状，最優秀研究賞，最優秀発表賞</span> 受賞
