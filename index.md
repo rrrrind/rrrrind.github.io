@@ -32,7 +32,7 @@ English version is [here](./en.md)!
 
 ## Publications
 ### Journal
-1. **Masaya Mori**, Roberto Gonzalez Flores, Yoshihiro Suzuki, Kei Nukazawa, Toru Hiraoka, Hirofumi Nonaka, Prediction of Microcystis Occurrences and Analysis Using Machine Learning in High-Dimension, Low-Sample-Size and Imbalanced Water Quality Data, Harmful Algae, Volume 117, 2022, 102273, ISSN 1568-9883. **[LINK](https://doi.org/10.1016/j.hal.2022.102273)**  
+1. **Masaya Mori**, Roberto Gonzalez Flores, Yoshihiro Suzuki, Kei Nukazawa, Toru Hiraoka, Hirofumi Nonaka, Prediction of Microcystis Occurrences and Analysis Using Machine Learning in High-Dimension, Low-Sample-Size and Imbalanced Water Quality Data, Harmful Algae, Volume 117, 2022, 102273, ISSN 1568-9883. **[LINK](https://doi.org/10.1016/j.hal.2022.102273){:target="_blank"}**  
 1. Hiroteru Kamimura, Hirofumi Nonaka, **Masaya Mori**, Taichi Kobayashi, Toru Setsu, Kenya Kamimura, Atsunori Tsuchiya, and Shuji Terai. "Use of a Deep Learning Approach for the Sensitive Prediction of Hepatitis B Surface Antigen Levels in Inactive Carrier Patients." Journal of Clinical Medicine 11, no.2 (2022): 387. **[LINK](https://www.mdpi.com/2077-0383/11/2/387){:target="_blank"}**  
 1. **Masaya Mori**, Yuto Omae, Takuma Akiduki, and Hirotaka Takahashi. "Consideration of human motion’s individual differences-based feature space evaluation function for anomaly detection." International Journal of Innovative Computing, Information and Control (2019). **[PDF](http://www.ijicic.org/ijicic-150225.pdf){:target="_blank"}**  
 1. Yuto Omae, **Masaya Mori**, Takuma Akiduki, and Hirotaka Takahashi. "A novel deep learning optimization algorithm for human motions anomaly detection." Int. J. Innov. Comput. Inf. Control 15 (2019): 199-208. **[PDF](http://www.ijicic.org/ijicic-150113.pdf){:target="_blank"}**  
@@ -68,7 +68,7 @@ English version is [here](./en.md)!
 
 ## Activities
 - 2022.06.06
-"Prediction of Microcystis Occurrences and Analysis Using Machine Learning in High-Dimension, Low-Sample-Size and Imbalanced Water Quality Data”がHarmful Algae(Elsevier, Impact Factor 4.273, Scimago Q1)にて採択 / [LINK](https://doi.org/10.1016/j.hal.2022.102273)
+"Prediction of Microcystis Occurrences and Analysis Using Machine Learning in High-Dimension, Low-Sample-Size and Imbalanced Water Quality Data”がHarmful Algae(Elsevier, Impact Factor 4.273, Scimago Q1)にて採択 / [LINK](https://doi.org/10.1016/j.hal.2022.102273){:target="_blank"}
 
 - 2022.03.25  
 長岡技術科学大学 大学院工学研究科 情報・経営システム工学専攻  
