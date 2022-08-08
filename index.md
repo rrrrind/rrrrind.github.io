@@ -1,7 +1,6 @@
 # 森 雅也 (Masaya Mori)
 - **Mail** : masaya.mori0905[at]gmail.com
 - **GitHub** : [@rrrrind](https://github.com/rrrrind){:target="_blank"} 
-- **Twitter** : [@rrrrind](https://twitter.com/rrrrind){:target="_blank"}
 - **Google Scholar** : [LINK](https://scholar.google.com/citations?user=iQVI1eAAAAAJ&hl=en){:target="_blank"}
 
 学生時代のポートフォリオは[こちら](./student_days/student.html)  
@@ -68,7 +67,7 @@ English version is [here](./en.md)!
 
 ## Activities
 - 2022.06.06  
-"Prediction of Microcystis Occurrences and Analysis Using Machine Learning in High-Dimension, Low-Sample-Size and Imbalanced Water Quality Data”がHarmful Algae(Elsevier, Impact Factor 4.273, Scimago Q1)にて採択 / [LINK](https://authors.elsevier.com/a/1fI-75aloFbl1x){:target="_blank"}
+"Prediction of Microcystis Occurrences and Analysis Using Machine Learning in High-Dimension, Low-Sample-Size and Imbalanced Water Quality Data”がHarmful Algae(Elsevier, Impact Factor 5.905, Scimago Q1)にて採択 / [LINK](https://authors.elsevier.com/a/1fI-75aloFbl1x){:target="_blank"}
 
 - 2022.03.25  
 長岡技術科学大学 大学院工学研究科 情報・経営システム工学専攻  
