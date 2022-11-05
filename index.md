@@ -67,7 +67,7 @@ English version is [here](./en.md)!
 - 2022.10.06  
 『日本大学』  
 令和4年度第3回 人工知能リサーチセンター講演会「特徴量探索問題の基礎と応用」  
-登壇・発表 / [LINK](https://www.ai-cit-nihon-u.com/%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88/)
+登壇・発表 / [LINK](https://www.ai-cit-nihon-u.com/%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88/){:target="_blank"}
 
 - 2022.06.06  
 "Prediction of Microcystis Occurrences and Analysis Using Machine Learning in High-Dimension, Low-Sample-Size and Imbalanced Water Quality Data”がHarmful Algae(Elsevier, Impact Factor 5.905, Scimago Q1)にて採択 / [LINK](https://authors.elsevier.com/a/1fI-75aloFbl1x){:target="_blank"}
