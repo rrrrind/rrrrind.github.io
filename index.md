@@ -8,6 +8,7 @@ English version is [here](./en.md)!
 
 
 ## Career
+- 日本大学 生産工学部 研究員 (2022.11-)
 - 合同会社DMM.com (2022.04-)
 
 
@@ -21,11 +22,8 @@ English version is [here](./en.md)!
 
 
 ## Research
-- 機械学習
-- 特徴量選択
-- 高次元小標本
-- 医療分野(臨床)
-- 水環境分野(シアノバクテリア)
+- 機械学習 (特徴量選択 / 高次元小標本 / etc ...)
+- シアノバクテリア / 医療 / マーケティング分析 / 製造業 / etc ...
 
 
 
@@ -66,6 +64,10 @@ English version is [here](./en.md)!
 
 
 ## Activities
+- 2022.10.06
+『日本大学』  
+令和4年度第3回 人工知能リサーチセンター講演会「特徴量探索問題の基礎と応用」 登壇・発表 / [LINK](https://www.ai-cit-nihon-u.com/%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88/)
+
 - 2022.06.06  
 "Prediction of Microcystis Occurrences and Analysis Using Machine Learning in High-Dimension, Low-Sample-Size and Imbalanced Water Quality Data”がHarmful Algae(Elsevier, Impact Factor 5.905, Scimago Q1)にて採択 / [LINK](https://authors.elsevier.com/a/1fI-75aloFbl1x){:target="_blank"}
 
