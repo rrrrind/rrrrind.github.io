@@ -65,7 +65,7 @@ English version is [here](./en.md)!
 
 
 ## Activities
-- 2022.12.30
+- 2022.12.30  
 "E2H Distance-Weighted Minimum Reference Set for Numerical and Categorical Mixture Data and a Bayesian Swap Feature Selection Algorithm"がMachine Learning and Knowledge Extractionにて採択 / [LINK](https://www.mdpi.com/2504-4990/5/1/7){:target="_blank"}
 
 - 2022.10.06  
