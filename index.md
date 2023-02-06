@@ -22,14 +22,15 @@ English version is [here](./en.md)!
 
 
 ## Research
-- 機械学習 (特徴量選択 / 高次元小標本 / etc ...)
-- シアノバクテリア / 医療 / マーケティング分析 / 製造業 / etc ...
+- 機械学習 (特徴量選択 / 高次元小標本 / )
+- シアノバクテリア / 医療 / マーケティング分析 / 製造業 / 
 
 
 
 ## Publications
 ### Journal
-1. **Masaya Mori**, Roberto Gonzalez Flores, Yoshihiro Suzuki, Kei Nukazawa, Toru Hiraoka, Hirofumi Nonaka, Prediction of Microcystis Occurrences and Analysis Using Machine Learning in High-Dimension, Low-Sample-Size and Imbalanced Water Quality Data, Harmful Algae, Volume 117, 2022, 102273, ISSN 1568-9883. **[LINK](https://authors.elsevier.com/a/1fI-75aloFbl1x){:target="_blank"}**  
+1. Omae, Yuto, and **Masaya Mori**. "E2H Distance-Weighted Minimum Reference Set for Numerical and Categorical Mixture Data and a Bayesian Swap Feature Selection Algorithm." Machine Learning and Knowledge Extraction 5.1 (2023): 109-127. **[LINK](https://www.mdpi.com/2504-4990/5/1/7){:target="_blank"}**  
+1. **Masaya Mori**, Roberto Gonzalez Flores, Yoshihiro Suzuki, Kei Nukazawa, Toru Hiraoka, Hirofumi Nonaka, Prediction of Microcystis Occurrences and Analysis Using Machine Learning in High-Dimension, Low-Sample-Size and Imbalanced Water Quality Data, Harmful Algae, Volume 117, 2022, 102273, ISSN 1568-9883. **[LINK](https://www.sciencedirect.com/science/article/abs/pii/S1568988322001019){:target="_blank"}**  
 1. Hiroteru Kamimura, Hirofumi Nonaka, **Masaya Mori**, Taichi Kobayashi, Toru Setsu, Kenya Kamimura, Atsunori Tsuchiya, and Shuji Terai. "Use of a Deep Learning Approach for the Sensitive Prediction of Hepatitis B Surface Antigen Levels in Inactive Carrier Patients." Journal of Clinical Medicine 11, no.2 (2022): 387. **[LINK](https://www.mdpi.com/2077-0383/11/2/387){:target="_blank"}**  
 1. **Masaya Mori**, Yuto Omae, Takuma Akiduki, and Hirotaka Takahashi. "Consideration of human motion’s individual differences-based feature space evaluation function for anomaly detection." International Journal of Innovative Computing, Information and Control (2019). **[PDF](http://www.ijicic.org/ijicic-150225.pdf){:target="_blank"}**  
 1. Yuto Omae, **Masaya Mori**, Takuma Akiduki, and Hirotaka Takahashi. "A novel deep learning optimization algorithm for human motions anomaly detection." Int. J. Innov. Comput. Inf. Control 15 (2019): 199-208. **[PDF](http://www.ijicic.org/ijicic-150113.pdf){:target="_blank"}**  
@@ -52,7 +53,7 @@ English version is [here](./en.md)!
  
 
 ## Awards  
-1. 長岡技術科学大学 大学院工学研究科 情報・経営システム工学専攻 <br>学長表彰状，最優秀研究賞，最優秀発表賞 (2022)
+1. 長岡技術科学大学 大学院工学研究科 情報・経営システム工学専攻 <br>学長表彰状，最優秀研究賞，最優秀発表賞 (2022) **[LINK](https://www.nagaokaut.ac.jp/kosen/students/07.files/R3hyoshou.pdf){:target="_blank"}**
 1. ヤマトホールディングス株式会社 株式会社POL "ヤマト運輸5Daysデータコンペ" <br>総合：2位，メンター特別賞，審査員特別賞 (2021)  
 1. 富士通株式会社 "Hack the Future" 最優秀賞 (2020) **[LINK](https://www.niigata-nippo.co.jp/news/local/20210203596827.html){:target="_blank"}**  
 1. 株式会社VOYAGE GROUP 株式会社サポーターズ "サマーハッカソン〜オンラインでLVupする夏合宿〜" 入選 (2020)  
@@ -64,17 +65,20 @@ English version is [here](./en.md)!
 
 
 ## Activities
+- 2022.12.30
+"E2H Distance-Weighted Minimum Reference Set for Numerical and Categorical Mixture Data and a Bayesian Swap Feature Selection Algorithm"がMachine Learning and Knowledge Extractionにて採択 / [LINK](https://www.mdpi.com/2504-4990/5/1/7){:target="_blank"}
+
 - 2022.10.06  
 『日本大学』  
 令和4年度第3回 人工知能リサーチセンター講演会「特徴量探索問題の基礎と応用」  
 登壇・発表 / [LINK](https://www.ai-cit-nihon-u.com/%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88/){:target="_blank"}
 
 - 2022.06.06  
-"Prediction of Microcystis Occurrences and Analysis Using Machine Learning in High-Dimension, Low-Sample-Size and Imbalanced Water Quality Data”がHarmful Algae(Elsevier, Impact Factor 5.905, Scimago Q1)にて採択 / [LINK](https://authors.elsevier.com/a/1fI-75aloFbl1x){:target="_blank"}
+"Prediction of Microcystis Occurrences and Analysis Using Machine Learning in High-Dimension, Low-Sample-Size and Imbalanced Water Quality Data”がHarmful Algae(Elsevier, Impact Factor 5.905, Scimago Q1)にて採択 / [LINK](https://www.sciencedirect.com/science/article/abs/pii/S1568988322001019){:target="_blank"}
 
 - 2022.03.25  
 長岡技術科学大学 大学院工学研究科 情報・経営システム工学専攻  
-<span style="color: red; ">学長表彰状，最優秀研究賞，最優秀発表賞</span> 受賞
+<span style="color: red; ">学長表彰状，最優秀研究賞，最優秀発表賞</span> 受賞 / [LINK](https://www.nagaokaut.ac.jp/kosen/students/07.files/R3hyoshou.pdf){:target="_blank"}  
 
 - 2021.09.19  
 『株式会社サポーターズ』主催  
