@@ -65,6 +65,9 @@
 
 
 ## Activities
+- 2023.03.05 - 2023.03.09  
+第15回データ工学と情報マネジメントに関するフォーラム(DEIM2023) 参加 / [LINK](https://event.dbsj.org/deim2023/){:target="_blank"}, [参加レポート](https://inside.dmm.com/articles/deim2023/){:target="_blank"}  
+
 - 2022.10.06  
 『日本大学』  
 令和4年度第3回 人工知能リサーチセンター講演会「特徴量探索問題の基礎と応用」  
