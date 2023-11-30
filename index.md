@@ -12,8 +12,6 @@
 
 
 ## Education
-学生時代の[ポートフォリオ](./student_days/student.html) 
-
 - 長岡技術科学大学大学院 情報・経営システム工学専攻 修了 (2020.04-2022.03)
 - M.V.ロモノーソフ・モスクワ国立総合大学 情報数学・人工知能学部 留学 (2019.09.22-2020.01.31)
 - 長岡技術科学大学 情報・経営システム工学課程 卒業 (2018.04-2020.03)  
@@ -29,7 +27,9 @@
 
 ## Publications
 ### Journal
-1. Omae, Yuto, and **Masaya Mori**. "E2H Distance-Weighted Minimum Reference Set for Numerical and Categorical Mixture Data and a Bayesian Swap Feature Selection Algorithm." Machine Learning and Knowledge Extraction 5.1 (2023): 109-127. **[Paper](https://www.mdpi.com/2504-4990/5/1/7){:target="_blank"}**  
+1. **Masaya Mori**, Roberto Gonzalez Flores, Hiroteru Kamimura, Kentaro Yamaura, and Hirofumi Nonaka. "An analytical investigation of body parts more susceptible to aging and composition changes using statistical hypothesis testing." Healthcare Analytics (2023): 100284. **[Paper](https://www.sciencedirect.com/science/article/pii/S277244252300151X){:target="_blank"}**
+1. Yuto Omae, **Masaya Mori**, and Yohei Kakimoto. "Multi-rules mining algorithm for combinatorially exploded decision trees with modified Aitchison-Aitken function-based Bayesian optimization." arXiv preprint arXiv:2310.02633 (2023). **[Paper](https://arxiv.org/abs/2310.02633){:target="_blank"}**
+1. Yuto Omae, and **Masaya Mori**. "E2H Distance-Weighted Minimum Reference Set for Numerical and Categorical Mixture Data and a Bayesian Swap Feature Selection Algorithm." Machine Learning and Knowledge Extraction 5.1 (2023): 109-127. **[Paper](https://www.mdpi.com/2504-4990/5/1/7){:target="_blank"}**  
 1. **Masaya Mori**, Roberto Gonzalez Flores, Yoshihiro Suzuki, Kei Nukazawa, Toru Hiraoka, Hirofumi Nonaka, Prediction of Microcystis Occurrences and Analysis Using Machine Learning in High-Dimension, Low-Sample-Size and Imbalanced Water Quality Data, Harmful Algae, Volume 117, 2022, 102273, ISSN 1568-9883. **[Paper](https://www.sciencedirect.com/science/article/abs/pii/S1568988322001019){:target="_blank"}**  
 1. Hiroteru Kamimura, Hirofumi Nonaka, **Masaya Mori**, Taichi Kobayashi, Toru Setsu, Kenya Kamimura, Atsunori Tsuchiya, and Shuji Terai. "Use of a Deep Learning Approach for the Sensitive Prediction of Hepatitis B Surface Antigen Levels in Inactive Carrier Patients." Journal of Clinical Medicine 11, no.2 (2022): 387. **[Paper](https://www.mdpi.com/2077-0383/11/2/387){:target="_blank"}**  
 1. **Masaya Mori**, Yuto Omae, Takuma Akiduki, and Hirotaka Takahashi. "Consideration of human motion’s individual differences-based feature space evaluation function for anomaly detection." International Journal of Innovative Computing, Information and Control (2019). **[Paper](http://www.ijicic.org/ijicic-150225.pdf){:target="_blank"}**  
@@ -41,6 +41,16 @@
 1. Yuto Omae, **Masaya Mori**, Takuma Akiduki, Hirotaka Takahashi, "A Novel Deep Learning Optimization Algorithm for Human Motions Anomaly Detection", The 13th International Conference on Innovative Computing, Information and Control (ICICIC2018). **[LINK](http://www.icicconference.org/icicic2018/){:target="_blank"}**, **[Paper](http://www.ijicic.org/ijicic-150113.pdf){:target="_blank"}**  
 
 査読なし
+1. **森雅也**, 小山裕, 大前佑斗, 原一之, 豊谷純, 奥村恭男, 羽尾裕之, 人工知能を用いた小規模な心筋細胞画像からの心筋症判定,
+日本大学医工連携シンポジウム2023講演予稿集, 2023.12.15.
+1. 三浦朋樹， 大前佑斗， 齋藤佑記， 深町大介， 永嶋孝一， 奥村恭男， **森雅也**， 柿本陽平， 豊谷純,
+肺動脈楔入圧推定のための回帰型CNNにおける教師データサイズに対する汎化性能と推定根拠の変容,
+日本大学医工連携シンポジウム2023講演予稿集, 2023.12.15.
+1. **森雅也**, 小山裕, 大前佑斗, 原一之, 豊谷純, 奥村恭男, 羽尾裕之,
+小規模な心筋細胞画像のテクスチャ特徴量による心筋症状態分類予測と判定要因分析, 第56回（令和5年度）日本大学生産工学部学術講演会,
+2023.12.09.
+1. 大前佑斗, 柿本陽平, **森雅也**, 組み合わせ爆発した決定木集合上のルールマイニングアルゴリズムの提案と多様な領域への応用事例,
+第56回（令和5年度）日本大学生産工学部学術講演会, 2023.12.09.
 1. 田村夏生, **森雅也**, 上村博輝, 野中尋史. 電子医療記録を用いたLatent Dirichlet Allocationによる疾患共起トピックと個別疾患ごとのコスト期待値算出. 第84回全国大会講演論文集(in press). 2022 Mar 5. **[LINK](https://www.ipsj.or.jp/event/taikai/84/){:target="_blank"}**, **[Paper](https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=221924&item_no=1&page_id=13&block_id=8){:target="_blank"}**  
 1. 藤崎竜成, **森雅也**, 野中尋史. Hololens2のマルチセンシング機能を利用した機械学習に基づく身体動作解析. 第84回全国大会講演論文集(in press). 2022 Mar 3. **[LINK](https://www.ipsj.or.jp/event/taikai/84/){:target="_blank"}**, **[Paper](https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=221029&item_no=1&page_id=13&block_id=8){:target="_blank"}**  
 1. **森雅也**, 山城広周, 山本雄太, 森楓, 鈴木祥広, 平岡透, 野中尋史. 機械学習を用いたダム湖上流における有害藻類ブルームの発生予測モデルの開発と発生要因分析への応用. 第83回全国大会講演論文集. 2021 Mar 4;2021(1):505-6. **[LINK](https://www.ipsj.or.jp/event/taikai/83/){:target="_blank"}**, **[Paper](https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=215051&item_no=1&page_id=13&block_id=8){:target="_blank"}**  
@@ -74,7 +84,7 @@
 登壇・発表 / [LINK](https://www.ai-cit-nihon-u.com/%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88/){:target="_blank"}
 
 - 2022.06.06  
-"Prediction of Microcystis Occurrences and Analysis Using Machine Learning in High-Dimension, Low-Sample-Size and Imbalanced Water Quality Data”がHarmful Algae(Elsevier, Impact Factor 5.905, Scimago Q1)にて採択 / [LINK](https://www.sciencedirect.com/science/article/abs/pii/S1568988322001019){:target="_blank"}
+"Prediction of Microcystis Occurrences and Analysis Using Machine Learning in High-Dimension, Low-Sample-Size and Imbalanced Water Quality Data”がHarmful Algaeに採択 / [LINK](https://www.sciencedirect.com/science/article/abs/pii/S1568988322001019){:target="_blank"}
 
 - 2022.03.25  
 長岡技術科学大学 大学院工学研究科 情報・経営システム工学専攻  
