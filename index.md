@@ -12,7 +12,8 @@
 
 
 ## Education
-- 長岡技術科学大学大学院 情報・経営システム工学専攻 修了 (2020.04-2022.03)
+- 日本大学 大学院 生産工学研究科マネジメント工学専攻 博士後期課程 (2024.04-)
+- 長岡技術科学大学 大学院 情報・経営システム工学専攻 博士前期課程 修了 (2020.04-2022.03)
 - M.V.ロモノーソフ・モスクワ国立総合大学 情報数学・人工知能学部 留学 (2019.09.22-2020.01.31)
 - 長岡技術科学大学 情報・経営システム工学課程 卒業 (2018.04-2020.03)  
 - 東京工業高等専門学校 電気工学科 卒業 (2013.04-2018.03)   
@@ -20,8 +21,8 @@
 
 
 ## Research
-- 機械学習：特徴量選択 / 高次元小標本 /
-- 水環境分野 / 医療分野 / 製造業 / 
+- 特徴量選択手法
+- （高次元）小標本データ分析
 
 
 
@@ -75,12 +76,22 @@
 
 
 ## Activities
-- 2023.03.05 - 2023.03.09  
-第15回データ工学と情報マネジメントに関するフォーラム(DEIM2023) 参加 / [LINK](https://event.dbsj.org/deim2023/){:target="_blank"}, [参加レポート](https://inside.dmm.com/articles/deim2023/){:target="_blank"}  
+- 2023.12.15  
+日本大学 医工連携シンポジウム2023「人工知能を用いた小規模な心筋細胞画像からの心筋症判定」  
+登壇・発表 / [LINK](https://nuais.blogspot.com/2023/11/symposium2023.html){:target="_blank"}
 
-- 2022.10.06  
-『日本大学』  
-令和4年度第3回 人工知能リサーチセンター講演会「特徴量探索問題の基礎と応用」  
+- 2023.12.09  
+第56回（令和5年度）日本大学生産工学部学術講演会「小規模な心筋細胞画像のテクスチャ特徴量による心筋症状態分類予測と判定要因分析」  
+登壇・発表 / [LINK](https://www.cit.nihon-u.ac.jp/laboratorydata/kenkyu/kouennkai/reference/No.56/html/program/os.html){:target="_blank"}
+
+- 2023.11.20  
+"An analytical investigation of body parts more susceptible to aging and composition changes using statistical hypothesis testing”がHealthcare Analyticsに採択 / [LINK](https://www.sciencedirect.com/science/article/pii/S277244252300151X){:target="_blank"}
+
+- 2023.03.05 - 2023.03.09  
+第15回データ工学と情報マネジメントに関するフォーラム(DEIM2023) 参加 / [LINK](https://event.dbsj.org/deim2023/){:target="_blank"}
+
+- 2022.10.06   
+令和4年度第3回 日本大学 人工知能リサーチセンター講演会「特徴量探索問題の基礎と応用」  
 登壇・発表 / [LINK](https://www.ai-cit-nihon-u.com/%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88/){:target="_blank"}
 
 - 2022.06.06  
