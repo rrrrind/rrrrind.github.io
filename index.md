@@ -4,11 +4,9 @@
 - **Google Scholar** : [LINK](https://scholar.google.com/citations?user=iQVI1eAAAAAJ&hl=en){:target="_blank"}
 
 
-
 ## Career
-- 日本大学 生産工学部 研究員 (2022.11-)
-- 合同会社DMM.com (2022.04-)
-
+- 日本大学 生産工学部 研究員 (2022.11-2024.03)
+- 合同会社DMM.com (2022.04-2024.04)
 
 
 ## Education
@@ -19,11 +17,9 @@
 - 東京工業高等専門学校 電気工学科 卒業 (2013.04-2018.03)   
 
 
-
 ## Research
 - 特徴量選択手法
 - （高次元）小標本データ分析
-
 
 
 ## Publications
@@ -62,7 +58,6 @@
 1. **森雅也**, 秋月拓磨, 高橋弘毅, 大前佑斗. 身体動作の個人差に対してロバストな特徴量空間評価関数の提案. 研究報告コンピュータビジョンとイメージメディア (CVIM). 2017 Sep 8;2017(1):1-6. **[LINK](https://www.ieice.org/ken/program/index.php?tgs_regid=4a81ccaf44b3990059e6a3d3a0fd1edaadec90a57d3d647f33cc561eae81654a&tgid=IEICE-PRMU){:target="_blank"}**, **[Paper](https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=183420&item_no=1&page_id=13&block_id=8){:target="_blank"}**  
 
  
-
 ## Awards  
 1. 長岡技術科学大学 大学院工学研究科 情報・経営システム工学専攻 <br>学長表彰状，最優秀研究賞，最優秀発表賞 (2022) **[LINK](https://www.nagaokaut.ac.jp/kosen/students/07.files/R3hyoshou.pdf){:target="_blank"}**
 1. ヤマトホールディングス株式会社 株式会社POL "ヤマト運輸5Daysデータコンペ" <br>総合：2位，メンター特別賞，審査員特別賞 (2021)  
@@ -74,8 +69,10 @@
 1. 情報処理学会第80回全国大会学生奨励賞 (2018) **[LINK](https://www.ipsj.or.jp/award/taikaigakusei.html){:target="_blank"}**  
 
 
-
 ## Activities
+- 2024.02.28 - 2024.03.05  
+第16回データ工学と情報マネジメントに関するフォーラム(DEIM2024) 参加 / [LINK](https://confit.atlas.jp/guide/event/deim2024/top?lang=ja){:target="_blank"}
+
 - 2023.12.15  
 日本大学 医工連携シンポジウム2023「人工知能を用いた小規模な心筋細胞画像からの心筋症判定」  
 登壇・発表 / [LINK](https://nuais.blogspot.com/2023/11/symposium2023.html){:target="_blank"}
