@@ -46,20 +46,24 @@ vol.123, no.379, pp.12-16, 2024.
 1. **森雅也**, 小山裕, 大前佑斗, 原一之, 豊谷純, 奥村恭男, 羽尾裕之. 
 人工知能を用いた小規模な心筋細胞画像からの心筋症判定.
 日本大学医工連携シンポジウム2023講演予稿集. 
-2023.12.15.
+2023.12.15. 
+**[LINK](https://nuais.blogspot.com/2023/11/symposium2023.html){:target="_blank"}**
 1. 三浦朋樹， 大前佑斗， 齋藤佑記， 深町大介， 永嶋孝一， 奥村恭男， **森雅也**， 柿本陽平， 豊谷純.
 肺動脈楔入圧推定のための回帰型CNNにおける教師データサイズに対する汎化性能と推定根拠の変容.
 日本大学医工連携シンポジウム2023講演予稿集. 
-2023.12.15.
+2023.12.15. 
+**[LINK](https://nuais.blogspot.com/2023/11/symposium2023.html){:target="_blank"}**
 1. **森雅也**, 小山裕, 大前佑斗, 原一之, 豊谷純, 奥村恭男, 羽尾裕之.
 小規模な心筋細胞画像のテクスチャ特徴量による心筋症状態分類予測と判定要因分析. 
 第56回（令和5年度）日本大学生産工学部学術講演会. 
+2023.12.09. 
+**[LINK](https://www.cit.nihon-u.ac.jp/laboratorydata/kenkyu/kouennkai/reference/No.56/index.html){:target="_blank"}**, 
 **[Paper](https://www.cit.nihon-u.ac.jp/laboratorydata/kenkyu/kouennkai/reference/No.56/pdf/OS-1.pdf){:target="_blank"}** 
-2023.12.09.
 1. 大前佑斗, 柿本陽平, **森雅也**. 
 組み合わせ爆発した決定木集合上のルールマイニングアルゴリズムの提案と多様な領域への応用事例.
 第56回（令和5年度）日本大学生産工学部学術講演会. 
 2023.12.09.
+**[LINK](https://www.cit.nihon-u.ac.jp/laboratorydata/kenkyu/kouennkai/reference/No.56/index.html){:target="_blank"}**, 
 1. 田村夏生, **森雅也**, 上村博輝, 野中尋史. 
 電子医療記録 (レセプトデータ) を用いた Latent Dirichlet Allocation (LDA) による疾患共起トピックと個別疾患ごとのコスト期待値算出. 
 第84回全国大会講演論文集. 
