@@ -61,7 +61,7 @@
 ## Awards  
 1. 長岡技術科学大学 大学院工学研究科 情報・経営システム工学専攻 <br>学長表彰状，最優秀研究賞，最優秀発表賞 (2022) **[LINK](https://www.nagaokaut.ac.jp/kosen/students/07.files/R3hyoshou.pdf){:target="_blank"}**
 1. ヤマトホールディングス株式会社 株式会社POL "ヤマト運輸5Daysデータコンペ" <br>総合：2位，メンター特別賞，審査員特別賞 (2021)  
-1. 富士通株式会社 "Hack the Future" 最優秀賞 (2020) **[LINK](https://www.niigata-nippo.co.jp/news/local/20210203596827.html){:target="_blank"}**  
+1. 富士通株式会社 "Hack the Future" 最優秀賞 (2020) **[LINK](https://www.nagaokaut.ac.jp/annai/koho/kisyakaiken/press/R2.files/210118_2.pdf){:target="_blank"}**  
 1. 株式会社VOYAGE GROUP 株式会社サポーターズ "サマーハッカソン〜オンラインでLVupする夏合宿〜" 入選 (2020)  
 1. 第18回情報科学技術フォーラムFIT奨励賞 (2019) **[LINK](https://www.ipsj.or.jp/award/fit-syorei.html){:target="_blank"}**  
 1. 情報処理学会第81回全国大会学生奨励賞 (2019) **[LINK](https://www.ipsj.or.jp/award/taikaigakusei.html){:target="_blank"}**  
@@ -136,7 +136,9 @@
 <span style="color: red; ">総合：2位，メンター特別賞，審査員特別賞</span> 受賞  
 
 - 2021.02.04  
-新潟日報に『AI料理パッド』が掲載されました / [LINK](https://www.niigata-nippo.co.jp/news/local/20210203596827.html){:target="_blank"}  
+新潟日報に以下が掲載されました  
+タイトル：『AI、冷蔵庫の中身で献立　ラインで複数提案　技科大院生・森さんら開発　アイデアコン最優秀賞受賞　日々の迷い解消へ』  
+詳細：新潟日報 2021.02.04 長岡-10版 17頁 朝刊  
 
 - 2021.01.19  
 『株式会社NTTドコモ』  
