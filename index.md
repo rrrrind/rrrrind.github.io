@@ -18,96 +18,94 @@
 
 
 ## Research
-- 特徴量選択手法
+- 特徴量選択
 - （高次元）小標本データ分析
 
 
 ## Publications
 ### Journal
+査読付き英文学術誌
 1. **Masaya Mori**, Roberto Gonzalez Flores, Hiroteru Kamimura, Kentaro Yamaura, and Hirofumi Nonaka. "An analytical investigation of body parts more susceptible to aging and composition changes using statistical hypothesis testing." Healthcare Analytics (2023): 100284. **[Paper](https://www.sciencedirect.com/science/article/pii/S277244252300151X){:target="_blank"}**
-1. Yuto Omae, **Masaya Mori**, and Yohei Kakimoto. "Multi-rules mining algorithm for combinatorially exploded decision trees with modified Aitchison-Aitken function-based Bayesian optimization." arXiv preprint arXiv:2310.02633 (2023). **[Paper](https://arxiv.org/abs/2310.02633){:target="_blank"}**
 1. Yuto Omae, and **Masaya Mori**. "E2H Distance-Weighted Minimum Reference Set for Numerical and Categorical Mixture Data and a Bayesian Swap Feature Selection Algorithm." Machine Learning and Knowledge Extraction 5.1 (2023): 109-127. **[Paper](https://www.mdpi.com/2504-4990/5/1/7){:target="_blank"}**  
 1. **Masaya Mori**, Roberto Gonzalez Flores, Yoshihiro Suzuki, Kei Nukazawa, Toru Hiraoka, Hirofumi Nonaka, Prediction of Microcystis Occurrences and Analysis Using Machine Learning in High-Dimension, Low-Sample-Size and Imbalanced Water Quality Data, Harmful Algae, Volume 117, 2022, 102273, ISSN 1568-9883. **[Paper](https://www.sciencedirect.com/science/article/abs/pii/S1568988322001019){:target="_blank"}**  
 1. Hiroteru Kamimura, Hirofumi Nonaka, **Masaya Mori**, Taichi Kobayashi, Toru Setsu, Kenya Kamimura, Atsunori Tsuchiya, and Shuji Terai. "Use of a Deep Learning Approach for the Sensitive Prediction of Hepatitis B Surface Antigen Levels in Inactive Carrier Patients." Journal of Clinical Medicine 11, no.2 (2022): 387. **[Paper](https://www.mdpi.com/2077-0383/11/2/387){:target="_blank"}**  
 1. **Masaya Mori**, Yuto Omae, Takuma Akiduki, and Hirotaka Takahashi. "Consideration of human motion’s individual differences-based feature space evaluation function for anomaly detection." International Journal of Innovative Computing, Information and Control (2019). **[Paper](http://www.ijicic.org/ijicic-150225.pdf){:target="_blank"}**  
 1. Yuto Omae, **Masaya Mori**, Takuma Akiduki, and Hirotaka Takahashi. "A novel deep learning optimization algorithm for human motions anomaly detection." Int. J. Innov. Comput. Inf. Control 15 (2019): 199-208. **[Paper](http://www.ijicic.org/ijicic-150113.pdf){:target="_blank"}**  
 
+査読付き和文学術誌
+1. **森雅也**, 大前佑斗, 川野真吾, 植竹宣夫, 豊谷純.
+機械の荷卸・据付に必要な作業用車両の台数自動推定に向けた決定木の構築と要因分析.
+日本情報ディレクトリ学会誌, 2024（In press）.
+
+査読なしプレプリント
+1. Yuto Omae, **Masaya Mori**, and Yohei Kakimoto. "Multi-rules mining algorithm for combinatorially exploded decision trees with modified Aitchison-Aitken function-based Bayesian optimization." arXiv preprint arXiv:2310.02633 (2023). **[Paper](https://arxiv.org/abs/2310.02633){:target="_blank"}**
+
+
 ### Conference  
-査読あり
+査読付き
 1. **Masaya Mori**, Yuto Omae, Takuma Akiduki, Hirotaka Takahashi, "Consideration of Human Motion’s Individual Differences-Based Feature Space Evaluation Function for Anomaly Detection", The 13th International Conference on Innovative Computing, Information and Control. **[LINK](http://www.icicconference.org/icicic2018/){:target="_blank"}**, **[Paper](http://www.ijicic.org/ijicic-150225.pdf){:target="_blank"}**  
 1. Yuto Omae, **Masaya Mori**, Takuma Akiduki, Hirotaka Takahashi, "A Novel Deep Learning Optimization Algorithm for Human Motions Anomaly Detection", The 13th International Conference on Innovative Computing, Information and Control (ICICIC2018). **[LINK](http://www.icicconference.org/icicic2018/){:target="_blank"}**, **[Paper](http://www.ijicic.org/ijicic-150113.pdf){:target="_blank"}**  
 
 査読なし
 1. 三浦朋樹, 大前佑斗, 齋藤佑記, 柿本陽平, **森雅也**, 奥村恭男, 豊谷純. 
 肺動脈楔入圧推定のための回帰型CNNにおける教師データサイズに対する汎化性能と推定根拠の変容. 
-電子情報通信学会技術研究報告集（ソフトウェアインタプライズ研究会）. 
-vol.123, no.379, pp.12-16, 2024. 
+電子情報通信学会技術研究報告集（ソフトウェアインタプライズ研究会）, vol.123, no.379, pp.12-16, 2024. 
 **[Paper](https://ken.ieice.org/ken/paper/20240216wcBO/){:target="_blank"}** 
 1. **森雅也**, 小山裕, 大前佑斗, 原一之, 豊谷純, 奥村恭男, 羽尾裕之. 
 人工知能を用いた小規模な心筋細胞画像からの心筋症判定.
-日本大学医工連携シンポジウム2023講演予稿集. 
-2023.12.15. 
+日本大学医工連携シンポジウム2023講演予稿集, 2023.12.15. 
 **[LINK](https://nuais.blogspot.com/2023/11/symposium2023.html){:target="_blank"}**
 1. 三浦朋樹， 大前佑斗， 齋藤佑記， 深町大介， 永嶋孝一， 奥村恭男， **森雅也**， 柿本陽平， 豊谷純.
 肺動脈楔入圧推定のための回帰型CNNにおける教師データサイズに対する汎化性能と推定根拠の変容.
-日本大学医工連携シンポジウム2023講演予稿集. 
-2023.12.15. 
+日本大学医工連携シンポジウム2023講演予稿集, 2023.12.15. 
 **[LINK](https://nuais.blogspot.com/2023/11/symposium2023.html){:target="_blank"}**
 1. **森雅也**, 小山裕, 大前佑斗, 原一之, 豊谷純, 奥村恭男, 羽尾裕之.
 小規模な心筋細胞画像のテクスチャ特徴量による心筋症状態分類予測と判定要因分析. 
-第56回（令和5年度）日本大学生産工学部学術講演会. 
-2023.12.09. 
+第56回（令和5年度）日本大学生産工学部学術講演会, 2023.12.09. 
 **[LINK](https://www.cit.nihon-u.ac.jp/laboratorydata/kenkyu/kouennkai/reference/No.56/index.html){:target="_blank"}**, 
 **[Paper](https://www.cit.nihon-u.ac.jp/laboratorydata/kenkyu/kouennkai/reference/No.56/pdf/OS-1.pdf){:target="_blank"}** 
 1. 大前佑斗, 柿本陽平, **森雅也**. 
 組み合わせ爆発した決定木集合上のルールマイニングアルゴリズムの提案と多様な領域への応用事例.
-第56回（令和5年度）日本大学生産工学部学術講演会. 
-2023.12.09.
+第56回（令和5年度）日本大学生産工学部学術講演会, 2023.12.09.
 **[LINK](https://www.cit.nihon-u.ac.jp/laboratorydata/kenkyu/kouennkai/reference/No.56/index.html){:target="_blank"}**, 
 1. 田村夏生, **森雅也**, 上村博輝, 野中尋史. 
 電子医療記録 (レセプトデータ) を用いた Latent Dirichlet Allocation (LDA) による疾患共起トピックと個別疾患ごとのコスト期待値算出. 
-第84回全国大会講演論文集. 
-2022(1), 941-942. 
+第84回全国大会講演論文集, 2022(1), 941-942. 
 **[LINK](https://www.ipsj.or.jp/event/taikai/84/){:target="_blank"}**, 
 **[Paper](https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=221924&item_no=1&page_id=13&block_id=8){:target="_blank"}**  
 1. 藤崎竜成, 森雅也, 野中尋史. 
 Hololens2 のマルチセンシング機能を利用した機械学習に基づく身体動作解析. 
-第84回全国大会講演論文集. 
-2022(1), 579-580. 
+第84回全国大会講演論文集, 2022(1), 579-580. 
 **[LINK](https://www.ipsj.or.jp/event/taikai/84/){:target="_blank"}**, 
 **[Paper](https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=221029&item_no=1&page_id=13&block_id=8){:target="_blank"}**  
 1. **森雅也**, 山城広周, 山本雄太, 森楓, 鈴木祥広, 平岡透, 野中尋史. 
 機械学習を用いたダム湖上流における有害藻類ブルームの発生予測モデルの開発と発生要因分析への応用. 
-第83回全国大会講演論文集. 
-2021 Mar 4;2021(1):505-6. 
+第83回全国大会講演論文集, 2021 Mar 4;2021(1):505-6. 
 **[LINK](https://www.ipsj.or.jp/event/taikai/83/){:target="_blank"}**, 
 **[Paper](https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=215051&item_no=1&page_id=13&block_id=8){:target="_blank"}**  
 1. **森雅也**, 中平勝子, 高橋弘毅, 田中貴浩. 
 ノイズに埋もれた微小信号波形の検出への変分オートエンコーダを用いた異常検知の応用. 
-In IEICE Conferences Archives 2019 Aug 20. The Institute of Electronics, Information and Communication Engineers. 
+In IEICE Conferences Archives 2019 Aug 20, The Institute of Electronics, Information and Communication Engineers. 
 **[LINK](https://www.ipsj.or.jp/event/fit/fit2019/){:target="_blank"}**, 
 **[Paper](https://www.ieice.org/publications/conferences/summary.php?id=FIT0000013611&expandable=2&ConfCd=F&session_num=4d&lecture_number=A-009&year=2019&conf_type=F){:target="_blank"}**  
 1. **森雅也**, 中平勝子, 田中貴浩. 
 畳み込みニューラルネットワークを用いた多数のパラメータによって特徴づけられる波形の抽出とパラメータ推定. 
-第81回全国大会講演論文集. 
-2019 Feb 28;2019(1):317-8. 
+第81回全国大会講演論文集, 2019 Feb 28;2019(1):317-8. 
 **[LINK](https://www.ipsj.or.jp/event/taikai/81/){:target="_blank"}**, 
 **[Paper](https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=196366&item_no=1&page_id=13&block_id=8){:target="_blank"}**  
 1. **森雅也**, 秋月拓磨, 高橋弘毅, 大前佑斗. 
 身体動作の異常値検知問題におけるCHI-FS評価関数の信頼性の検証. 
-第80回全国大会講演論文集. 
-2018 Mar 13;2018(1):253-4. 
+第80回全国大会講演論文集, 2018 Mar 13;2018(1):253-4. 
 **[LINK](https://www.ipsj.or.jp/event/taikai/80/){:target="_blank"}**, 
 **[Paper](https://ipsj.ixsq.nii.ac.jp/ej/index.php?active_action=repository_view_main_item_detail&page_id=13&block_id=8&item_id=187974&item_no=1){:target="_blank"}**  
 1. **森雅也**, 大前佑斗. 
 畳込みニューラルネットワークと慣性センサによる運動支援システムの構築. 
-第80回全国大会講演論文集. 2018 Mar 13;2018(1):261-2. 
+第80回全国大会講演論文集, 2018 Mar 13;2018(1):261-2. 
 **[LINK](https://www.ipsj.or.jp/event/taikai/80/){:target="_blank"}**, 
 **[Paper](https://ipsj.ixsq.nii.ac.jp/ej/index.php?active_action=repository_view_main_item_detail&page_id=13&block_id=8&item_id=187978&item_no=1){:target="_blank"}**  
 1. **森雅也**, 秋月拓磨, 高橋弘毅, 大前佑斗. 
 身体動作の個人差に対してロバストな特徴量空間評価関数の提案. 
-研究報告コンピュータビジョンとイメージメディア (CVIM). 
-2017 Sep 8;2017(1):1-6. 
+研究報告コンピュータビジョンとイメージメディア (CVIM), 2017 Sep 8;2017(1):1-6. 
 **[LINK](https://www.ieice.org/ken/program/index.php?tgs_regid=4a81ccaf44b3990059e6a3d3a0fd1edaadec90a57d3d647f33cc561eae81654a&tgid=IEICE-PRMU){:target="_blank"}**, 
 **[Paper](https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=183420&item_no=1&page_id=13&block_id=8){:target="_blank"}**  
 
@@ -125,7 +123,9 @@ In IEICE Conferences Archives 2019 Aug 20. The Institute of Electronics, Informa
 
 ## Activities
 - 2024.02.28 - 2024.03.05  
-第16回データ工学と情報マネジメントに関するフォーラム(DEIM2024) 参加 / [LINK](https://confit.atlas.jp/guide/event/deim2024/top?lang=ja){:target="_blank"}
+第16回データ工学と情報マネジメントに関するフォーラム(DEIM2024) 参加 / 
+[LINK](https://confit.atlas.jp/guide/event/deim2024/top?lang=ja){:target="_blank"}, 
+[参加レポート](https://inside.dmm.com/articles/deim2024/){:target="_blank"}
 
 - 2023.12.15  
 日本大学 医工連携シンポジウム2023「人工知能を用いた小規模な心筋細胞画像からの心筋症判定」  
@@ -139,7 +139,9 @@ In IEICE Conferences Archives 2019 Aug 20. The Institute of Electronics, Informa
 "An analytical investigation of body parts more susceptible to aging and composition changes using statistical hypothesis testing”がHealthcare Analyticsに採択 / [LINK](https://www.sciencedirect.com/science/article/pii/S277244252300151X){:target="_blank"}
 
 - 2023.03.05 - 2023.03.09  
-第15回データ工学と情報マネジメントに関するフォーラム(DEIM2023) 参加 / [LINK](https://event.dbsj.org/deim2023/){:target="_blank"}
+第15回データ工学と情報マネジメントに関するフォーラム(DEIM2023) 参加 / 
+[LINK](https://event.dbsj.org/deim2023/){:target="_blank"}, 
+[参加レポート](https://inside.dmm.com/articles/deim2023/){:target="_blank"}
 
 - 2022.10.06   
 令和4年度第3回 日本大学 人工知能リサーチセンター講演会「特徴量探索問題の基礎と応用」  
