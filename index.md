@@ -5,13 +5,14 @@
 
 
 ## Career
+- 日本学術振興会 特別研究員 DC2 (2025.04-2027.03)
 - 日本大学 生産工学部 研究員 (2022.11-2024.03)
 - 合同会社DMM.com (2022.04-2024.04)
 
 
 ## Education
 - 日本大学 大学院 生産工学研究科マネジメント工学専攻 博士後期課程 (2024.04-)
-- 長岡技術科学大学 大学院 情報・経営システム工学専攻 博士前期課程 修了 (2020.04-2022.03)
+- 長岡技術科学大学 大学院 情報・経営システム工学専攻 修士課程 修了 (2020.04-2022.03)
 - M.V.ロモノーソフ・モスクワ国立総合大学 情報数学・人工知能学部 留学 (2019.09.22-2020.01.31)
 - 長岡技術科学大学 情報・経営システム工学課程 卒業 (2018.04-2020.03)  
 - 東京工業高等専門学校 電気工学科 卒業 (2013.04-2018.03)   
@@ -25,13 +26,12 @@
 ## Publications
 ### Journal
 査読付き学術論文誌
-1. Yuto Omae, **Masaya Mori**, and Yohei Kakimoto. "Multi-rules mining algorithm for combinatorially exploded decision trees with modified Aitchison-Aitken function-based Bayesian optimization." IEEE Open Journal of the Computer Society, 2024 (In press). **[Paper](https://arxiv.org/abs/2310.02633){:target="_blank"}**
-1. **森雅也**, 大前佑斗, 川野真吾, 植竹宣夫, 豊谷純.
-機械の荷卸・据付に必要な作業用車両の台数自動推定に向けた決定木の構築と要因分析.
-日本情報ディレクトリ学会誌, 2024（In press）.
-1. **Masaya Mori**, Roberto Gonzalez Flores, Hiroteru Kamimura, Kentaro Yamaura, and Hirofumi Nonaka. "An analytical investigation of body parts more susceptible to aging and composition changes using statistical hypothesis testing." Healthcare Analytics (2023): 100284. **[Paper](https://www.sciencedirect.com/science/article/pii/S277244252300151X){:target="_blank"}**
+1. **Masaya Mori**, Roberto Gonzalez Flores, Hiroteru Kamimura, Kentaro Yamaura, and Hirofumi Nonaka. "An analytical investigation of body parts more susceptible to aging and composition changes using statistical hypothesis testing." Healthcare Analytics (2024): 100284. **[Paper](https://www.sciencedirect.com/science/article/pii/S277244252300151X){:target="_blank"}**  
+1. Yuto Omae, **Masaya Mori**, Yohei Kakimoto, Multi-Rules Mining Algorithm for Combinatorially Exploded Decision Trees With Modified Aitchison-Aitken Function-Based Bayesian Optimization, IEEE Open Journal of the Computer Society, vol.5, pp.215-226, 2024. **[Paper](https://ieeexplore.ieee.org/document/10510571){:target="_blank"}**  
+1. **Masaya Mori**, Yuto Omae, Yohei Kakimoto, Makoto Sasaki, and Jun Toyotani. "Analyzing factors of daily travel distances in Japan during the COVID-19 pandemic." Mathematical Biosciences and Engineering, 2024, 21(8): 6936-6974. **[Paper](https://www.aimspress.com/article/doi/10.3934/mbe.2024305){:target="_blank"}**  
+1. **森雅也**, 大前佑斗, 川野真吾, 植竹宣夫, and 豊谷純. "機械の荷卸・据付に必要な作業用車両の台数自動推定に向けた決定木の構築と要因分析." 日本情報ディレクトリ学会誌= Journal of Japan Society of Directories/日本情報ディレクトリ学会 編, 2024, 22, 110-119.s, **[Paper](https://cir.nii.ac.jp/crid/1520019004056842368){:target="_blank"}**  
 1. Yuto Omae, and **Masaya Mori**. "E2H Distance-Weighted Minimum Reference Set for Numerical and Categorical Mixture Data and a Bayesian Swap Feature Selection Algorithm." Machine Learning and Knowledge Extraction 5.1 (2023): 109-127. **[Paper](https://www.mdpi.com/2504-4990/5/1/7){:target="_blank"}**  
-1. **Masaya Mori**, Roberto Gonzalez Flores, Yoshihiro Suzuki, Kei Nukazawa, Toru Hiraoka, Hirofumi Nonaka, Prediction of Microcystis Occurrences and Analysis Using Machine Learning in High-Dimension, Low-Sample-Size and Imbalanced Water Quality Data, Harmful Algae, Volume 117, 2022, 102273, ISSN 1568-9883. **[Paper](https://www.sciencedirect.com/science/article/abs/pii/S1568988322001019){:target="_blank"}**  
+1. **Masaya Mori**, Roberto Gonzalez Flores, Yoshihiro Suzuki, Kei Nukazawa, Toru Hiraoka, and Hirofumi Nonaka. "Prediction of Microcystis Occurrences and Analysis Using Machine Learning in High-Dimension, Low-Sample-Size and Imbalanced Water Quality Data." Harmful Algae, Volume 117, 2022, 102273, ISSN 1568-9883. **[Paper](https://www.sciencedirect.com/science/article/abs/pii/S1568988322001019){:target="_blank"}**  
 1. Hiroteru Kamimura, Hirofumi Nonaka, **Masaya Mori**, Taichi Kobayashi, Toru Setsu, Kenya Kamimura, Atsunori Tsuchiya, and Shuji Terai. "Use of a Deep Learning Approach for the Sensitive Prediction of Hepatitis B Surface Antigen Levels in Inactive Carrier Patients." Journal of Clinical Medicine 11, no.2 (2022): 387. **[Paper](https://www.mdpi.com/2077-0383/11/2/387){:target="_blank"}**  
 1. **Masaya Mori**, Yuto Omae, Takuma Akiduki, and Hirotaka Takahashi. "Consideration of human motion’s individual differences-based feature space evaluation function for anomaly detection." International Journal of Innovative Computing, Information and Control (2019). **[Paper](http://www.ijicic.org/ijicic-150225.pdf){:target="_blank"}**  
 1. Yuto Omae, **Masaya Mori**, Takuma Akiduki, and Hirotaka Takahashi. "A novel deep learning optimization algorithm for human motions anomaly detection." Int. J. Innov. Comput. Inf. Control 15 (2019): 199-208. **[Paper](http://www.ijicic.org/ijicic-150113.pdf){:target="_blank"}**  
@@ -39,9 +39,9 @@
 
 ### Conference  
 査読付き
-1. **Masaya Mori**, Yutaka Koyama, Yuto Omae, Kazuyuki Hara, Jun Toyotani, Yasuo Okumura, Hiroyuki Hao, ``Potential of Low-Dimensionalized Texture Features of Myocardial Biopsy Histopathology Images for Cardiomyopathy Diagnosis Support,'' ¥textit{13th International Conference on Mathematical Modeling in Physical Sciences}, 2024（発表採択）.
-1. **Masaya Mori**, Yuto Omae, Takuma Akiduki, Hirotaka Takahashi, "Consideration of Human Motion’s Individual Differences-Based Feature Space Evaluation Function for Anomaly Detection", The 13th International Conference on Innovative Computing, Information and Control. **[LINK](http://www.icicconference.org/icicic2018/){:target="_blank"}**, **[Paper](http://www.ijicic.org/ijicic-150225.pdf){:target="_blank"}**  
-1. Yuto Omae, **Masaya Mori**, Takuma Akiduki, Hirotaka Takahashi, "A Novel Deep Learning Optimization Algorithm for Human Motions Anomaly Detection", The 13th International Conference on Innovative Computing, Information and Control (ICICIC2018). **[LINK](http://www.icicconference.org/icicic2018/){:target="_blank"}**, **[Paper](http://www.ijicic.org/ijicic-150113.pdf){:target="_blank"}**  
+1. **Masaya Mori**, Yutaka Koyama, Yuto Omae, Kazuyuki Hara, Jun Toyotani, Yasuo Okumura, and Hiroyuki Hao. "Potential of Low-Dimensionalized Texture Features of Myocardial Biopsy Histopathology Images for Cardiomyopathy Diagnosis Support." 13th International Conference on Mathematical Modeling in Physical Sciences, 2024. **[LINK](https://www.icmsquare.net/index.php){:target="_blank"}**, **[Paper](#){:target="_blank"}**  
+1. **Masaya Mori**, Yuto Omae, Takuma Akiduki, and Hirotaka Takahashi. "Consideration of Human Motion’s Individual Differences-Based Feature Space Evaluation Function for Anomaly Detection." The 13th International Conference on Innovative Computing, Information and Control. **[LINK](http://www.icicconference.org/icicic2018/){:target="_blank"}**, **[Paper](http://www.ijicic.org/ijicic-150225.pdf){:target="_blank"}**  
+1. Yuto Omae, **Masaya Mori**, Takuma Akiduki, and Hirotaka Takahashi. "A Novel Deep Learning Optimization Algorithm for Human Motions Anomaly Detection." The 13th International Conference on Innovative Computing, Information and Control (ICICIC2018). **[LINK](http://www.icicconference.org/icicic2018/){:target="_blank"}**, **[Paper](http://www.ijicic.org/ijicic-150113.pdf){:target="_blank"}**  
 
 査読なし
 1. 三浦朋樹, 大前佑斗, 齋藤佑記, 柿本陽平, **森雅也**, 奥村恭男, 豊谷純. 
@@ -119,6 +119,13 @@ In IEICE Conferences Archives 2019 Aug 20, The Institute of Electronics, Informa
 
 
 ## Activities
+- 2024.09.30 - 2024.10.03  
+13th International Conference on Mathematical Modeling in Physical Sciences (Kalamata, Greece)  
+"Potential of Low-Dimensionalized Texture Features of Myocardial Biopsy Histopathology Images for Cardiomyopathy Diagnosis Support" [査読あり] 発表  
+
+- 2024.07.24  
+"Analyzing factors of daily travel distances in Japan during the COVID-19 pandemic"がMathematical Biosciences and Engineeringに採択 / [LINK](https://www.aimspress.com/article/doi/10.3934/mbe.2024305){:target="_blank"}
+
 - 2024.02.28 - 2024.03.05  
 第16回データ工学と情報マネジメントに関するフォーラム(DEIM2024) 参加 / 
 [LINK](https://confit.atlas.jp/guide/event/deim2024/top?lang=ja){:target="_blank"}, 
@@ -145,7 +152,7 @@ In IEICE Conferences Archives 2019 Aug 20, The Institute of Electronics, Informa
 登壇・発表 / [LINK](https://www.ai-cit-nihon-u.com/%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88/){:target="_blank"}
 
 - 2022.06.06  
-"Prediction of Microcystis Occurrences and Analysis Using Machine Learning in High-Dimension, Low-Sample-Size and Imbalanced Water Quality Data”がHarmful Algaeに採択 / [LINK](https://www.sciencedirect.com/science/article/abs/pii/S1568988322001019){:target="_blank"}
+"Prediction of Microcystis Occurrences and Analysis Using Machine Learning in High-Dimension, Low-Sample-Size and Imbalanced Water Quality Data"がHarmful Algaeに採択 / [LINK](https://www.sciencedirect.com/science/article/abs/pii/S1568988322001019){:target="_blank"}
 
 - 2022.03.25  
 長岡技術科学大学 大学院工学研究科 情報・経営システム工学専攻  
