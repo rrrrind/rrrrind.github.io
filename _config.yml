@@ -1,2 +1,14 @@
 theme: jekyll-theme-slate
 title: PORTFOLIO
+
+# 文献引用（bibtex）の設定
+gems:
+  - jekyll-scholar
+bibliography: references.bib
+
+
+# 文献リストの出力設定
+output:
+  scholar:
+    style: apa  # 出力スタイル（apa, chicago, ieee など）
+    link_citations: true  # クリックを有効にする
