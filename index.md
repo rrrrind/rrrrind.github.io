@@ -26,7 +26,7 @@
 ## Publications
 ### Journal
 査読付き学術論文誌
-1. @mori2024analytical
+@mori2024analytical
 1. Yuto Omae, **Masaya Mori**, Yohei Kakimoto, Multi-Rules Mining Algorithm for Combinatorially Exploded Decision Trees With Modified Aitchison-Aitken Function-Based Bayesian Optimization, IEEE Open Journal of the Computer Society, vol.5, pp.215-226, 2024. **[Paper](https://ieeexplore.ieee.org/document/10510571){:target="_blank"}**  
 1. **Masaya Mori**, Yuto Omae, Yohei Kakimoto, Makoto Sasaki, and Jun Toyotani. "Analyzing factors of daily travel distances in Japan during the COVID-19 pandemic." Mathematical Biosciences and Engineering, 2024, 21(8): 6936-6974. **[Paper](https://www.aimspress.com/article/doi/10.3934/mbe.2024305){:target="_blank"}**  
 1. **森雅也**, 大前佑斗, 川野真吾, 植竹宣夫, and 豊谷純. "機械の荷卸・据付に必要な作業用車両の台数自動推定に向けた決定木の構築と要因分析." 日本情報ディレクトリ学会誌= Journal of Japan Society of Directories/日本情報ディレクトリ学会 編, 2024, 22, 110-119.s, **[Paper](https://cir.nii.ac.jp/crid/1520019004056842368){:target="_blank"}**  

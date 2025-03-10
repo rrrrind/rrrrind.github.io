@@ -6,8 +6,8 @@ gems:
   - jekyll-scholar
 bibliography: references.bib
 
-
 # 文献リストの出力設定
+
 output:
   scholar:
     style: apa  # 出力スタイル（apa, chicago, ieee など）
