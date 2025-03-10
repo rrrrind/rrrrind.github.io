@@ -25,9 +25,9 @@
 
 ## Publications
 ### Journal
-査読付き学術論文誌
-{% cite mori2024analytical %}
-1. Yuto Omae, **Masaya Mori**, Yohei Kakimoto, Multi-Rules Mining Algorithm for Combinatorially Exploded Decision Trees With Modified Aitchison-Aitken Function-Based Bayesian Optimization, IEEE Open Journal of the Computer Society, vol.5, pp.215-226, 2024. **[Paper](https://ieeexplore.ieee.org/document/10510571){:target="_blank"}**  
+1. Yuto Omae, Yohei Kakimoto, Makoto Sasaki, and **Masaya Mori**. (2025). EVI-GPBO: Estimated Variance Integration-Based Gaussian Process Bayesian Optimization. IEEE Access. **[Paper](https://ieeexplore.ieee.org/abstract/document/10872956){:target="_blank"}**  
+1. **Masaya Mori**, Roberto Gonzalez Flores, Hiroteru Kamimura, Kentaro Yamaura, and Hirofumi Nonaka. (2024). An analytical investigation of body parts more susceptible to aging and composition changes using statistical hypothesis testing. Healthcare Analytics, 5, 100284. **[Paper](https://www.sciencedirect.com/science/article/pii/S277244252300151X){:target="_blank"}**  
+1. Yuto Omae, **Masaya Mori**, and Yohei Kakimoto, Multi-Rules Mining Algorithm for Combinatorially Exploded Decision Trees With Modified Aitchison-Aitken Function-Based Bayesian Optimization, IEEE Open Journal of the Computer Society, vol.5, pp.215-226, 2024. **[Paper](https://ieeexplore.ieee.org/document/10510571){:target="_blank"}**  
 1. **Masaya Mori**, Yuto Omae, Yohei Kakimoto, Makoto Sasaki, and Jun Toyotani. "Analyzing factors of daily travel distances in Japan during the COVID-19 pandemic." Mathematical Biosciences and Engineering, 2024, 21(8): 6936-6974. **[Paper](https://www.aimspress.com/article/doi/10.3934/mbe.2024305){:target="_blank"}**  
 1. **森雅也**, 大前佑斗, 川野真吾, 植竹宣夫, and 豊谷純. "機械の荷卸・据付に必要な作業用車両の台数自動推定に向けた決定木の構築と要因分析." 日本情報ディレクトリ学会誌= Journal of Japan Society of Directories/日本情報ディレクトリ学会 編, 2024, 22, 110-119.s, **[Paper](https://cir.nii.ac.jp/crid/1520019004056842368){:target="_blank"}**  
 1. Yuto Omae, and **Masaya Mori**. "E2H Distance-Weighted Minimum Reference Set for Numerical and Categorical Mixture Data and a Bayesian Swap Feature Selection Algorithm." Machine Learning and Knowledge Extraction 5.1 (2023): 109-127. **[Paper](https://www.mdpi.com/2504-4990/5/1/7){:target="_blank"}**  
@@ -38,12 +38,28 @@
 
 
 ### Conference  
-査読付き
+#### International Conferences / 国際学会
 1. **Masaya Mori**, Yutaka Koyama, Yuto Omae, Kazuyuki Hara, Jun Toyotani, Yasuo Okumura, and Hiroyuki Hao. "Potential of Low-Dimensionalized Texture Features of Myocardial Biopsy Histopathology Images for Cardiomyopathy Diagnosis Support." 13th International Conference on Mathematical Modeling in Physical Sciences, 2024. **[LINK](https://www.icmsquare.net/index.php){:target="_blank"}**, **[Paper](#){:target="_blank"}**  
 1. **Masaya Mori**, Yuto Omae, Takuma Akiduki, and Hirotaka Takahashi. "Consideration of Human Motion’s Individual Differences-Based Feature Space Evaluation Function for Anomaly Detection." The 13th International Conference on Innovative Computing, Information and Control. **[LINK](http://www.icicconference.org/icicic2018/){:target="_blank"}**, **[Paper](http://www.ijicic.org/ijicic-150225.pdf){:target="_blank"}**  
 1. Yuto Omae, **Masaya Mori**, Takuma Akiduki, and Hirotaka Takahashi. "A Novel Deep Learning Optimization Algorithm for Human Motions Anomaly Detection." The 13th International Conference on Innovative Computing, Information and Control (ICICIC2018). **[LINK](http://www.icicconference.org/icicic2018/){:target="_blank"}**, **[Paper](http://www.ijicic.org/ijicic-150113.pdf){:target="_blank"}**  
 
-査読なし
+#### Domestic Conferences / 国内学会
+1. 山下裕玄, 豊谷純, 大前佑斗, **森雅也**, 中嶋翼, 萩原謙. 
+人工知能を用いた胃癌腹膜播種巣の検出診断支援と予後予測システムの確立.
+日本大学医工連携シンポジウム2025講演予稿集, 2025.2.8. 
+**[LINK](https://nuais.blogspot.com/2024/10/symposium2025.html){:target="_blank"}**
+1. **森雅也**, 大前佑斗, 豊谷純, 萩原謙, 山下裕玄. 
+胃癌腹膜播種係数予測に向けたAIモデルの構築.
+日本大学医工連携シンポジウム2025講演予稿集, 2025.2.8. 
+**[LINK](https://nuais.blogspot.com/2024/10/symposium2025.html){:target="_blank"}**
+1. 豊谷純, 中嶋翼, チョウバイネイ, 大前佑斗, **森雅也**, 萩原謙, 山下裕玄. 
+内視鏡画像を用いたCNN画像分類.
+日本大学医工連携シンポジウム2025講演予稿集, 2025.2.8. 
+**[LINK](https://nuais.blogspot.com/2024/10/symposium2025.html){:target="_blank"}**
+1. 原一之, 小山裕, **森雅也**, 傳田侑也, 豊谷純, 大前佑斗, 羽尾裕之. 
+少数の病理画像のためのAI病理判定システムの検討.
+日本大学医工連携シンポジウム2025講演予稿集, 2025.2.8. 
+**[LINK](https://nuais.blogspot.com/2024/10/symposium2025.html){:target="_blank"}**
 1. 三浦朋樹, 大前佑斗, 齋藤佑記, 柿本陽平, **森雅也**, 奥村恭男, 豊谷純. 
 肺動脈楔入圧推定のための回帰型CNNにおける教師データサイズに対する汎化性能と推定根拠の変容. 
 電子情報通信学会技術研究報告集（ソフトウェアインタプライズ研究会）, vol.123, no.379, pp.12-16, 2024. 
@@ -54,8 +70,8 @@
 **[LINK](https://nuais.blogspot.com/2023/11/symposium2023.html){:target="_blank"}**
 1. 三浦朋樹, 大前佑斗, 齋藤佑記, 深町大介, 永嶋孝一, 奥村恭男, **森雅也**, 柿本陽平, 豊谷純.
 肺動脈楔入圧推定のための回帰型CNNにおける教師データサイズに対する汎化性能と推定根拠の変容.
-日本大学医工連携シンポジウム2023講演予稿集, 2023.12.15. 
-**[LINK](https://nuais.blogspot.com/2023/11/symposium2023.html){:target="_blank"}**
+第56回（令和5年度）日本大学生産工学部学術講演会, 2023.12.09.  
+**[LINK](https://www.cit.nihon-u.ac.jp/laboratorydata/kenkyu/kouennkai/reference/No.56/index.html){:target="_blank"}**
 1. **森雅也**, 小山裕, 大前佑斗, 原一之, 豊谷純, 奥村恭男, 羽尾裕之.
 小規模な心筋細胞画像のテクスチャ特徴量による心筋症状態分類予測と判定要因分析. 
 第56回（令和5年度）日本大学生産工学部学術講演会, 2023.12.09. 
