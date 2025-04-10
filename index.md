@@ -25,11 +25,13 @@
 
 ## Publications
 ### Journal
+1. **森雅也**, 大前佑斗, 豊谷純. "リテールベーカリーにおける一般化状態空間モデルを用いた仕込み量の予測と分析." 日本情報ディレクトリ学会誌= Journal of Japan Society of Directories/日本情報ディレクトリ学会 編, In Press.
+1. **Masaya Mori**, Yuto Omae, Yutaka Koyama, Kazuyuki Hara, Jun Toyotani, Yasuo Okumura, and Hiroyuki Hao. (2025). Cardiomyopathy Diagnosis Model from Endomyocardial Biopsy Specimens: Appropriate Feature Space and Class Boundary in Small Sample Size Data. arXiv preprint arXiv:2503.11331.
 1. Yuto Omae, Yohei Kakimoto, Makoto Sasaki, and **Masaya Mori**. (2025). EVI-GPBO: Estimated Variance Integration-Based Gaussian Process Bayesian Optimization. IEEE Access. **[Paper](https://ieeexplore.ieee.org/abstract/document/10872956){:target="_blank"}**  
 1. **Masaya Mori**, Roberto Gonzalez Flores, Hiroteru Kamimura, Kentaro Yamaura, and Hirofumi Nonaka. (2024). An analytical investigation of body parts more susceptible to aging and composition changes using statistical hypothesis testing. Healthcare Analytics, 5, 100284. **[Paper](https://www.sciencedirect.com/science/article/pii/S277244252300151X){:target="_blank"}**  
 1. Yuto Omae, **Masaya Mori**, and Yohei Kakimoto, Multi-Rules Mining Algorithm for Combinatorially Exploded Decision Trees With Modified Aitchison-Aitken Function-Based Bayesian Optimization, IEEE Open Journal of the Computer Society, vol.5, pp.215-226, 2024. **[Paper](https://ieeexplore.ieee.org/document/10510571){:target="_blank"}**  
 1. **Masaya Mori**, Yuto Omae, Yohei Kakimoto, Makoto Sasaki, and Jun Toyotani. "Analyzing factors of daily travel distances in Japan during the COVID-19 pandemic." Mathematical Biosciences and Engineering, 2024, 21(8): 6936-6974. **[Paper](https://www.aimspress.com/article/doi/10.3934/mbe.2024305){:target="_blank"}**  
-1. **森雅也**, 大前佑斗, 川野真吾, 植竹宣夫, and 豊谷純. "機械の荷卸・据付に必要な作業用車両の台数自動推定に向けた決定木の構築と要因分析." 日本情報ディレクトリ学会誌= Journal of Japan Society of Directories/日本情報ディレクトリ学会 編, 2024, 22, 110-119.s, **[Paper](https://cir.nii.ac.jp/crid/1520019004056842368){:target="_blank"}**  
+1. **森雅也**, 大前佑斗, 川野真吾, 植竹宣夫, 豊谷純. "機械の荷卸・据付に必要な作業用車両の台数自動推定に向けた決定木の構築と要因分析." 日本情報ディレクトリ学会誌= Journal of Japan Society of Directories/日本情報ディレクトリ学会 編, 2024, 22, 110-119.s, **[Paper](https://cir.nii.ac.jp/crid/1520019004056842368){:target="_blank"}**  
 1. Yuto Omae, and **Masaya Mori**. "E2H Distance-Weighted Minimum Reference Set for Numerical and Categorical Mixture Data and a Bayesian Swap Feature Selection Algorithm." Machine Learning and Knowledge Extraction 5.1 (2023): 109-127. **[Paper](https://www.mdpi.com/2504-4990/5/1/7){:target="_blank"}**  
 1. **Masaya Mori**, Roberto Gonzalez Flores, Yoshihiro Suzuki, Kei Nukazawa, Toru Hiraoka, and Hirofumi Nonaka. "Prediction of Microcystis Occurrences and Analysis Using Machine Learning in High-Dimension, Low-Sample-Size and Imbalanced Water Quality Data." Harmful Algae, Volume 117, 2022, 102273, ISSN 1568-9883. **[Paper](https://www.sciencedirect.com/science/article/abs/pii/S1568988322001019){:target="_blank"}**  
 1. Hiroteru Kamimura, Hirofumi Nonaka, **Masaya Mori**, Taichi Kobayashi, Toru Setsu, Kenya Kamimura, Atsunori Tsuchiya, and Shuji Terai. "Use of a Deep Learning Approach for the Sensitive Prediction of Hepatitis B Surface Antigen Levels in Inactive Carrier Patients." Journal of Clinical Medicine 11, no.2 (2022): 387. **[Paper](https://www.mdpi.com/2077-0383/11/2/387){:target="_blank"}**  
@@ -38,12 +40,16 @@
 
 
 ### Conference  
-#### International Conferences / 国際学会
+#### International Conferences / 国際会議
 1. **Masaya Mori**, Yutaka Koyama, Yuto Omae, Kazuyuki Hara, Jun Toyotani, Yasuo Okumura, and Hiroyuki Hao. "Potential of Low-Dimensionalized Texture Features of Myocardial Biopsy Histopathology Images for Cardiomyopathy Diagnosis Support." 13th International Conference on Mathematical Modeling in Physical Sciences, 2024. **[LINK](https://www.icmsquare.net/index.php){:target="_blank"}**, **[Paper](#){:target="_blank"}**  
 1. **Masaya Mori**, Yuto Omae, Takuma Akiduki, and Hirotaka Takahashi. "Consideration of Human Motion’s Individual Differences-Based Feature Space Evaluation Function for Anomaly Detection." The 13th International Conference on Innovative Computing, Information and Control. **[LINK](http://www.icicconference.org/icicic2018/){:target="_blank"}**, **[Paper](http://www.ijicic.org/ijicic-150225.pdf){:target="_blank"}**  
 1. Yuto Omae, **Masaya Mori**, Takuma Akiduki, and Hirotaka Takahashi. "A Novel Deep Learning Optimization Algorithm for Human Motions Anomaly Detection." The 13th International Conference on Innovative Computing, Information and Control (ICICIC2018). **[LINK](http://www.icicconference.org/icicic2018/){:target="_blank"}**, **[Paper](http://www.ijicic.org/ijicic-150113.pdf){:target="_blank"}**  
 
 #### Domestic Conferences / 国内学会
+1. 大前佑斗, 柿本陽平, 佐々木真, & **森雅也**. (2025). 
+推定分散積分の解析解を導入した信頼性上限関数によるガウス過程ベイズ最適化. 
+研究報告コンピュータビジョンとイメージメディア (CVIM), 2025(31), 1-5.
+**[LINK](https://ipsj.ixsq.nii.ac.jp/records/2001585){:target="_blank"}**
 1. 山下裕玄, 豊谷純, 大前佑斗, **森雅也**, 中嶋翼, 萩原謙. 
 人工知能を用いた胃癌腹膜播種巣の検出診断支援と予後予測システムの確立.
 日本大学医工連携シンポジウム2025講演予稿集, 2025.2.8. 
@@ -86,7 +92,7 @@
 第84回全国大会講演論文集, 2022(1), 941-942. 
 **[LINK](https://www.ipsj.or.jp/event/taikai/84/){:target="_blank"}**, 
 **[Paper](https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=221924&item_no=1&page_id=13&block_id=8){:target="_blank"}**  
-1. 藤崎竜成, 森雅也, 野中尋史. 
+1. 藤崎竜成, **森雅也**, 野中尋史. 
 Hololens2 のマルチセンシング機能を利用した機械学習に基づく身体動作解析. 
 第84回全国大会講演論文集, 2022(1), 579-580. 
 **[LINK](https://www.ipsj.or.jp/event/taikai/84/){:target="_blank"}**, 
