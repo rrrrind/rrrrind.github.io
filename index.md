@@ -25,8 +25,8 @@
 
 ## Publications
 ### Journal
-1. **森雅也**, 大前佑斗, 豊谷純. "リテールベーカリーにおける一般化状態空間モデルを用いた仕込み量の予測と分析." 日本情報ディレクトリ学会誌= Journal of Japan Society of Directories/日本情報ディレクトリ学会 編, In Press.
-1. **Masaya Mori**, Yuto Omae, Yutaka Koyama, Kazuyuki Hara, Jun Toyotani, Yasuo Okumura, and Hiroyuki Hao. (2025). Cardiomyopathy Diagnosis Model from Endomyocardial Biopsy Specimens: Appropriate Feature Space and Class Boundary in Small Sample Size Data. arXiv preprint arXiv:2503.11331.
+1. **Masaya Mori**, Yuto Omae, Yutaka Koyama, Kazuyuki Hara, Jun Toyotani, Yasuo Okumura, and Hiroyuki Hao, Cardiomyopathy diagnosis model from endomyocardial biopsy specimens: Appropriate feature space and class boundary in small sample size data, AIMS Bioengineering, vol.12, no.2, pp.283-313, 2025. **[Paper](https://doi.org/10.3934/bioeng.2025014){:target="_blank"}**  
+1. **森雅也**, 大前佑斗, 豊谷純. "リテールベーカリーにおける一般化状態空間モデルを用いた仕込み量の予測と分析." 日本情報ディレクトリ学会誌, vol.23, no.1, pp.94-103, 2025. **[Paper](https://www.jstage.jst.go.jp/article/jsod/23/1/23_11/_article/-char/ja/){:target="_blank"}**  
 1. Yuto Omae, Yohei Kakimoto, Makoto Sasaki, and **Masaya Mori**. (2025). EVI-GPBO: Estimated Variance Integration-Based Gaussian Process Bayesian Optimization. IEEE Access. **[Paper](https://ieeexplore.ieee.org/abstract/document/10872956){:target="_blank"}**  
 1. **Masaya Mori**, Roberto Gonzalez Flores, Hiroteru Kamimura, Kentaro Yamaura, and Hirofumi Nonaka. (2024). An analytical investigation of body parts more susceptible to aging and composition changes using statistical hypothesis testing. Healthcare Analytics, 5, 100284. **[Paper](https://www.sciencedirect.com/science/article/pii/S277244252300151X){:target="_blank"}**  
 1. Yuto Omae, **Masaya Mori**, and Yohei Kakimoto, Multi-Rules Mining Algorithm for Combinatorially Exploded Decision Trees With Modified Aitchison-Aitken Function-Based Bayesian Optimization, IEEE Open Journal of the Computer Society, vol.5, pp.215-226, 2024. **[Paper](https://ieeexplore.ieee.org/document/10510571){:target="_blank"}**  
